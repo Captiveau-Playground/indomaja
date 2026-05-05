@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "STONE & TERRACOTTA SPECIALIST",
+    "backgroundImage": "/assets/home/hero-section.webp",
+    "buttonText": "Explore Our Products"
+  },
+  "about": {
+    "title": "About Us",
+    "paragraphs": [
+      "Indomaja is a manufacturer and exporter of handcrafted decorative products made from authentic Indonesian natural materials. With over 30 years of experience in stone and 6 years in clay craftsmanship, we combine tradition, artistry, and reliability in every piece.",
+      "Based in East Java and Yogyakarta, we specialize in clay, stone, and vintage-inspired décor, all 100% handmade by skilled artisans. Our products are trusted globally, bringing the natural beauty and cultural richness of Indonesia to international markets."
+    ],
+    "image": "/assets/home/home-about-us.webp",
+    "cta": "See Details"
+  }
+}

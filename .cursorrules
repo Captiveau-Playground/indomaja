@@ -1,0 +1,86 @@
+# Indomaja Coding Specification Rules
+
+You are Antigravity, an expert Full-stack Developer and SEO Strategist. You must follow these strict coding specifications for the Indomaja project.
+
+**Current Scope**: The project is a **Static Website** with a core focus on **JSON-LD data integration** and **Extreme SEO Performance**.
+
+## 1. SEO-First & Static-First Implementation
+
+### a. Static Site Generation (SSG)
+
+- Prioritize Server Components (RSC) for all pages.
+- Ensure all pages are statically generated for peak performance and crawlability.
+- Use `next/image` with priority for above-the-fold content.
+
+### b. Proper Heading Hierarchy
+
+- Only ONE `<h1>` per page, representing the main topic.
+- Use `<h2>` to `<h6>` in a strict nested hierarchy without skipping levels.
+- Ensure headings are descriptive and include relevant keywords.
+
+### c. Metadata Management
+
+- Use Next.js `Metadata` API in `layout.tsx` (global) and `page.tsx` (page-specific).
+- Every page MUST have a unique `title` (max 60 chars) and `description` (max 160 chars).
+- Implement OpenGraph (`og:title`, `og:description`, `og:image`) and Twitter card tags.
+
+### d. URL Structure
+
+- Maintain a flat and clean URL structure (e.g., `indomaja.co/services/digital-marketing` instead of `indomaja.co/s?id=123`).
+- Use lowercase and hyphens for slugs.
+
+## 2. Structured Data (JSON-LD)
+
+Implement JSON-LD using the `<script type="application/ld+json">` tag or Next.js `json-ld` patterns.
+
+- **Organization Schema**: Included globally (usually in the root layout).
+- **Website Schema**: Include search action if applicable.
+- **Service/Product Schema**: Implement on specific service/detail pages.
+
+## 3. Analytics Setup
+
+### a. Integrations
+
+- **Google Analytics 4 (GA4)**: Use `@next/third-parties/google` or a custom script component.
+- **Google Tag Manager (GTM)**: Ensure the script is placed in the `<head>` and the non-script noscript tag is placed immediately after the opening `<body>` tag.
+
+### b. Event Tracking
+
+- **Page Views**: Automate page view tracking on route changes.
+- **Form Submissions**: Implement custom events for successful form submissions (e.g., `generate_lead` or `form_submit`).
+
+## 4. Maintainable & Scalable Architecture
+
+### a. Folder Structure (Industry Standard)
+
+Follow a structured approach to keep the codebase clean:
+
+- `@/components/ui`: Atomic, reusable UI elements (Buttons, Inputs, Modals).
+- `@/components/layout`: Shared layout components (Navbar, Footer, Sidebar).
+- `@/components/features`: Complex components grouped by features or modules.
+- `@/lib`: Configuration for external libraries or shared utilities.
+- `@/hooks`: Custom, reusable React hooks to share logic.
+- `@/types`: Centralized TypeScript interfaces and types.
+- `@/constants`: Global constants, enums, and configuration values.
+- `@/services`: Logic for API fetching and data transformations.
+- `@/data`: Static JSON files for JSON-LD and page content.
+
+### b. DRY (Don't Repeat Yourself) Principle
+
+- **Component Reusability**: Extract repetitive UI patterns into reusable components with flexible props.
+- **Shared Logic**: Move business logic used in multiple places into custom hooks or utility functions in `@/lib`.
+- **Centralized Config**: Store hardcoded strings, API endpoints, and configuration in `@/constants`.
+- **Type Safety**: Avoid duplicating type definitions; share them across the project via `@/types`.
+
+## 5. Coding Standards & Quality
+
+- **Clean Structure**: Always maintain the folder hierarchy described above.
+- **Styling**: Strictly use the established Tailwind CSS v4 design system.
+- **TypeScript**: No `any`. Use descriptive naming for variables and functions.
+- **Performance**: Optimize images, use Server Components by default, and minimize client-side states.
+
+## 6. Performance & Optimization
+
+- Use `next/image` for all images to ensure proper sizing and lazy loading.
+- Ensure a Lighthouse SEO and Performance score of 90+.
+- Prioritize Server Components (RSC) to reduce client-side bundle size.

@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --breakpoint-md: 769px;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: "Inter", sans-serif;
+  --font-mono: var(--font-geist-mono);
+  --font-heading: "Montserrat", sans-serif;
+
+  --color-buccaneer-50: #FBF6F5;
+  --color-buccaneer-100: #F8EDEB;
+  --color-buccaneer-200: #F1DCDA;
+  --color-buccaneer-300: #E6BFBB;
+  --color-buccaneer-400: #D89A94;
+  --color-buccaneer-500: #C6726D;
+  --color-buccaneer-600: #AF504F;
+  --color-buccaneer-700: #923E40;
+  --color-buccaneer-800: #7B3639;
+  --color-buccaneer-900: #5B2A2E;
+  --color-buccaneer-950: #3A1719;
+  --color-grey-500: #6D6D6D;
+  --color-grey-100: #F6F6F6;
+
+  --tracking-heading: -0.05em;
+
+  --text-h1: 64px;
+  --text-h1--line-height: 1.2;
+  --text-h1--letter-spacing: var(--tracking-heading);
+  --text-h1--font-weight: 700;
+
+  --text-h2: 48px;
+  --text-h2--line-height: 1.2;
+  --text-h2--letter-spacing: var(--tracking-heading);
+  --text-h2--font-weight: 700;
+
+  --text-h3: 36px;
+  --text-h3--line-height: 1.2;
+  --text-h3--letter-spacing: var(--tracking-heading);
+  --text-h3--font-weight: 600;
+
+  --text-h4: 24px;
+  --text-h4--line-height: 1.2;
+  --text-h4--letter-spacing: var(--tracking-heading);
+  --text-h4--font-weight: 600;
+
+  --text-h5: 16px;
+  --text-h5--line-height: 1.2;
+  --text-h5--letter-spacing: var(--tracking-heading);
+  --text-h5--font-weight: 500;
+
+  --font-special: "Inter", sans-serif;
+
+  --text-special-h1: 64px;
+  --text-special-h1--line-height: 1.1;
+  --text-special-h1--letter-spacing: var(--tracking-heading);
+  --text-special-h1--font-weight: 800;
+
+  --text-special-h2: 48px;
+  --text-special-h2--line-height: 1.1;
+  --text-special-h2--letter-spacing: var(--tracking-heading);
+  --text-special-h2--font-weight: 800;
+
+  --text-special-h3: 36px;
+  --text-special-h3--line-height: 1.2;
+  --text-special-h3--letter-spacing: var(--tracking-heading);
+  --text-special-h3--font-weight: 700;
+
+  --text-special-h4: 24px;
+  --text-special-h4--line-height: 1.2;
+  --text-special-h4--letter-spacing: var(--tracking-heading);
+  --text-special-h4--font-weight: 700;
+
+  --text-special-h5: 16px;
+  --text-special-h5--line-height: 1.2;
+  --text-special-h5--letter-spacing: var(--tracking-heading);
+  --text-special-h5--font-weight: 600;
+
+  --tracking-body: -0.02em;
+
+  --text-body-lg: 24px;
+  --text-body-lg--line-height: 1.5;
+  --text-body-lg--letter-spacing: var(--tracking-body);
+
+  --text-body-md: 16px;
+  --text-body-md--line-height: 1.5;
+  --text-body-md--letter-spacing: var(--tracking-body);
+
+  --text-body-normal: 14px;
+  --text-body-normal--line-height: 1.5;
+  --text-body-normal--letter-spacing: var(--tracking-body);
+
+  --text-body-sm: 12px;
+  --text-body-sm--line-height: 1.5;
+  --text-body-sm--letter-spacing: var(--tracking-body);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  @apply text-body-normal font-sans;
+}
+
+/* h1 {
+  @apply text-h1 font-heading;
+}
+
+h2 {
+  @apply text-h2 font-heading;
+}
+
+h3 {
+  @apply text-h3 font-heading;
+}
+
+h4 {
+  @apply text-h4 font-heading;
+}
+
+h5 {
+  @apply text-h5 font-heading;
+} */
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.8s ease-out forwards;
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+
+/* Base reveal transition for elements */
+.reveal {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.8s ease-out;
+}
+
+.reveal.active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

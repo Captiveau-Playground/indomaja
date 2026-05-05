@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "title": "About Us",
+    "image": "/assets/aboutus/about-us-top.webp",
+    "paragraphs": [
+      "Indomaja is a manufacturer and exporter of handcrafted decorative products made from authentic Indonesian natural materials. With more than 30 years of experience in stone decoration and over 6 years in clay craftsmanship, our company has built a solid foundation of quality, artistry, and reliability.",
+      "Founded in Tulungagung, East Java, and expanded to Yogyakarta, Indomaja operates with a deep respect for Indonesia’s rich natural and cultural heritage. Our facilities are strategically located, from limestone and terracotta production centers to stone decoration and old product warehouses, enabling us to manage materials and craftsmanship efficiently.",
+      "At Indomaja, we specialize in clay, stone, and old decorative products, as well as furniture that blends traditional character with modern design. Each piece is 100% handmade, reflecting the passion, precision, and creativity of our artisans. We take pride in using sustainable materials sourced from Indonesia, ensuring that every product embodies authenticity and environmental responsibility.",
+      "Our products have reached international markets including the United Arab Emirates, Australia, Sweden, Canada, and the United States, catering primarily to middle and high-end customers who appreciate design, quality, and story.",
+      "Driven by our core values, quality, integrity, craftsmanship, sustainability, and adaptability. Indomaja is committed to building long-term partnerships based on trust and excellence. Our designs are proven in the market, our production capacity reaches 2–5 containers per month, and our team of over 66 skilled artisans and 3 dedicated managers ensures that every order meets export standards.",
+      "Indomaja was founded with a strong passion for Indonesian natural materials. We believe that beauty lies in authenticity, and our mission is to bring the natural charm of Indonesia’s craftsmanship to homes and spaces around the world. Through dedication, precision, and innovation, we continue to share the art and soul of Indonesia, transforming its natural resources and cultural legacy into timeless pieces that inspire."
+    ]
+  },
+  "gallery": [
+    {
+      "src": "/assets/aboutus/about-us-divider-secondary.webp",
+      "alt": "Indomaja Production",
+      "aspect": "16/9"
+    },
+    {
+      "src": "/assets/aboutus/about-us-divider-main.webp",
+      "alt": "Indomaja Handcrafted Statue",
+      "aspect": "2/3"
+    },
+    {
+      "src": "/assets/aboutus/about-us-divider-small1.webp",
+      "alt": "Indomaja Warehouse",
+      "aspect": "2/3"
+    },
+    {
+      "src": "/assets/aboutus/about-us-divider-small2.webp",
+      "alt": "Indomaja Warehouse",
+      "aspect": "2/3"
+    }
+  ],
+  "visionMission": {
+    "image": "/assets/aboutus/about-us-our-vision.webp",
+    "vision": "To become a trusted global partner that brings the timeless beauty of Indonesian natural craftsmanship to the world, creating value through quality, authenticity, and long-term collaboration.",
+    "missions": [
+      "To build sustainable, long-term business relationships based on trust, reliability, and mutual growth with our international partners.",
+      "To promote Indonesia's natural beauty and cultural heritage through handmade decorative products crafted with excellence and passion.",
+      "To combine traditional craftsmanship with modern innovation, delivering products that meet both artistic and global market standards.",
+      "To ensure efficiency and consistency across all operations, from sourcing raw materials to international delivery."
+    ]
+  }
+}
