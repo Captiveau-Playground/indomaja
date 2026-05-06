@@ -1,8 +1,11 @@
+"use client";
 import Image from "next/image";
 import homeData from "@/data/home.json";
+import { useRouter } from "next/navigation";
 
 const Hero = () => {
   const { hero } = homeData;
+  const router = useRouter();
 
   return (
     <section className="relative flex min-h-[925px] w-full flex-col items-center justify-center overflow-hidden pt-20 text-center">
@@ -49,7 +52,10 @@ const Hero = () => {
         </h1>
 
         <div className="mt-10">
-          <button className="bg-buccaneer-900 md:text-special-h3 hover:bg-buccaneer-800 cursor-pointer rounded-[12px] px-[24px] py-[12px] text-[24px] font-bold text-white transition-all md:rounded-[16px] md:px-[36px] md:py-[16px]">
+          <button
+            onClick={() => router.push("/products")}
+            className="bg-buccaneer-900 md:text-special-h3 hover:bg-buccaneer-800 cursor-pointer rounded-[12px] px-[24px] py-[12px] text-[24px] font-bold text-white transition-all md:rounded-[16px] md:px-[36px] md:py-[16px]"
+          >
             {hero.buttonText}
           </button>
         </div>

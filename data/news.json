@@ -2,50 +2,149 @@
   {
     "id": "best-seller-collection-2025",
     "title": "2025 INDOMAJA Best Seller Collection",
-    "image": "/assets/news/detail/detail-news-main-thumbnail1.webp",
-    "detailImage": "/assets/news/detail/detail-news-main-thumbnail1.webp",
-    "smallThumbnail": "/assets/news/detail/detail-news-small-thumbnail1.webp",
+    "image": "/assets/news/best-seller-product/detail-news-main-thumbnail1.webp",
+    "detailImage": "/assets/news/best-seller-product/detail-news-main-thumbnail1.webp",
+    "smallThumbnail": "/assets/news/best-seller-product/detail-news-main-thumbnail1.webp",
     "date": "24 Apr 2026",
     "author": "Indomaja Team",
     "category": "Collection",
     "description": "These best-selling pieces have become favorites among designers, collectors, and homeowners for their ability to transform ordinary spaces into distinctive environments.",
-    "content": "Indomaja's best-selling collections have earned recognition among designers, collectors, and homeowners for their ability to elevate ordinary spaces into distinctive and memorable environments. Each piece is thoughtfully crafted to not only serve as a decorative element, but also as a statement of character, bringing depth, texture, and authenticity into any setting.\n\nRooted in Indonesia’s rich natural resources, these collections are made from carefully selected stone and terracotta materials, shaped and refined through skilled craftsmanship. The uniqueness of each product lies in its organic form and natural imperfections, qualities that cannot be replicated by mass production. This is what makes every piece from Indomaja truly one of a kind.\n\nBeyond aesthetics, functionality and durability also play a key role in why these products are highly favored. Whether placed in residential spaces, hospitality projects, or commercial environments, Indomaja’s creations are designed to seamlessly blend with various architectural styles, from rustic and traditional to modern and contemporary.\n\nThe growing demand for these collections reflects a broader appreciation for handcrafted products that carry both cultural value and sustainable principles. By combining timeless design with responsible material sourcing, Indomaja continues to offer products that resonate with global audiences who seek more than just decoration, but meaningful design.\n\nThrough its best-selling pieces, Indomaja not only delivers products, but also shares the story of Indonesian craftsmanship with the world, transforming natural materials into lasting works of art that inspire and endure."
+    "content": "At Indomaja, every creation begins with a simple philosophy, transforming natural materials into timeless design. The 2025 best seller collection reflects what today's designers and homeowners value most: authenticity, durability, and understated elegance. From raw limestone to refined stone and modern GRC, each piece is crafted to elevate both indoor and outdoor spaces.\n\n1. Old Limestone Planter: Aged Beauty with Character\nThe Old Limestone Planter stands as one of the most iconic pieces in the collection. Formed by nature over time, each planter carries unique textures, weathered tones, and organic imperfections that cannot be replicated.\nThese planters are highly sought after for their rustic yet sophisticated look, perfect for tropical gardens, minimalist landscapes, or Mediterranean-inspired spaces. Beyond functionality, they serve as statement décor, bringing a sense of history and natural warmth into any environment.\n\n2. Stone Planter Collection: Natural Luxury\nThe Stone Planter Collection highlights the beauty of premium natural stones such as onyx, marble, and travertine. Each material offers its own visual identity, onyx with its translucent elegance, marble with its refined veining, and travertine with its earthy texture.\nDesigned for both interior and exterior use, these planters blend functionality with artistic value. They are ideal for luxury residences, villas, hotels, and commercial projects seeking a refined natural touch.\n\n3. GRC Planter Collection: Modern Form, Lightweight Strength\nFor contemporary spaces, the GRC (Glassfiber Reinforced Cement) Planter Collection offers the perfect balance between durability and design flexibility. Compared to solid stone, GRC is lighter yet strong, making it ideal for versatile applications.\nKey best sellers include:\nGRC Fence Planter – designed to integrate seamlessly with walls or fences\nCement Hourglass Pot – a sculptural, modern silhouette\nFlower Sleep Planter – a unique, artistic form that adds character to any space\nThis collection is widely favored for modern architecture, urban landscapes, and commercial environments due to its clean lines and adaptability.\n\n4. Stone Furniture & Homeware: Functional Art for Everyday Living\nIndomaja's Stone Homeware Collection transforms everyday objects into timeless pieces of art. Crafted from natural stone, each item whether a table, bench, sink, bowl, tissue box, or candle holder offers a unique texture and pattern that enhances interior spaces.\nThese pieces are not just functional; they create a sensory experience through their natural weight, cool surface, and organic beauty. Perfect for bathrooms, kitchens, and living spaces, they bring a sense of calm and authenticity into daily living.\n\nThe 2025 best sellers from Indomaja represent more than just products, they are a reflection of craftsmanship, material integrity, and timeless design. Whether it's the raw charm of limestone, the elegance of natural stone, or the modern versatility of GRC, each piece is created to inspire spaces and elevate everyday living.",
+    "sections": [
+      {
+        "type": "text",
+        "text": "At Indomaja, every creation begins with a simple philosophy, transforming natural materials into timeless design. The 2025 best seller collection reflects what today's designers and homeowners value most: authenticity, durability, and understated elegance. From raw limestone to refined stone and modern GRC, each piece is crafted to elevate both indoor and outdoor spaces."
+      },
+      {
+        "type": "numbered",
+        "number": 1,
+        "heading": "Old Limestone Planter: Aged Beauty with Character",
+        "paragraphs": [
+          "The Old Limestone Planter stands as one of the most iconic pieces in the collection. Formed by nature over time, each planter carries unique textures, weathered tones, and organic imperfections that cannot be replicated.",
+          "These planters are highly sought after for their rustic yet sophisticated look, perfect for tropical gardens, minimalist landscapes, or Mediterranean-inspired spaces. Beyond functionality, they serve as statement décor, bringing a sense of history and natural warmth into any environment."
+        ],
+        "images": [
+          "/assets/news/best-seller-product/img-news-ol-planter.webp",
+          "/assets/news/best-seller-product/img-news-ol-planter2.webp",
+          "/assets/news/best-seller-product/img-news-ol-planter3.webp"
+        ]
+      },
+      {
+        "type": "numbered",
+        "number": 2,
+        "heading": "Stone Planter Collection: Natural Luxury",
+        "paragraphs": [
+          "The Stone Planter Collection highlights the beauty of premium natural stones such as onyx, marble, and travertine. Each material offers its own visual identity, onyx with its translucent elegance, marble with its refined veining, and travertine with its earthy texture.",
+          "Designed for both interior and exterior use, these planters blend functionality with artistic value. They are ideal for luxury residences, villas, hotels, and commercial projects seeking a refined natural touch."
+        ],
+        "images": [
+          "/assets/news/best-seller-product/img-news-sd-planter1.webp",
+          "/assets/news/best-seller-product/img-news-sd-planter2.webp",
+          "/assets/news/best-seller-product/img-news-sd-planter3.webp"
+        ]
+      },
+      {
+        "type": "numbered-grc",
+        "number": 3,
+        "heading": "GRC Planter Collection: Modern Form, Lightweight Strength",
+        "intro": [
+          "For contemporary spaces, the GRC (Glassfiber Reinforced Cement) Planter Collection offers the perfect balance between durability and design flexibility. Compared to solid stone, GRC is lighter yet strong, making it ideal for versatile applications.",
+          "Key best sellers include:"
+        ],
+        "subsections": [
+          {
+            "name": "GRC Fence Planter",
+            "description": "designed to integrate seamlessly with walls or fences",
+            "images": [
+              "/assets/news/best-seller-product/img-news-grc-fenceplanter1.webp",
+              "/assets/news/best-seller-product/img-news-grc-fenceplanter2.webp"
+            ]
+          },
+          {
+            "name": "Cement Hourglass Pot",
+            "description": "a sculptural, modern silhouette",
+            "images": [
+              "/assets/news/best-seller-product/img-news-grc-hourglass1.webp",
+              "/assets/news/best-seller-product/img-news-grc-hourglass2.webp"
+            ]
+          },
+          {
+            "name": "Flower Sleep Planter",
+            "description": "a unique, artistic form that adds character to any space",
+            "images": [
+              "/assets/news/best-seller-product/img-news-grc-flowersleep1.webp",
+              "/assets/news/best-seller-product/img-news-grc-flowersleep2.webp"
+            ]
+          }
+        ],
+        "closing": "This collection is widely favored for modern architecture, urban landscapes, and commercial environments due to its clean lines and adaptability."
+      },
+      {
+        "type": "numbered",
+        "number": 4,
+        "heading": "Stone Furniture & Homeware: Functional Art for Everyday Living",
+        "paragraphs": [
+          "Indomaja's Stone Homeware Collection transforms everyday objects into timeless pieces of art. Crafted from natural stone, each item whether a table, bench, sink, bowl, tissue box, or candle holder offers a unique texture and pattern that enhances interior spaces.",
+          "These pieces are not just functional; they create a sensory experience through their natural weight, cool surface, and organic beauty. Perfect for bathrooms, kitchens, and living spaces, they bring a sense of calm and authenticity into daily living."
+        ],
+        "images": [
+          "/assets/news/best-seller-product/img-news-sfh1.webp",
+          "/assets/news/best-seller-product/img-news-sfh2.webp",
+          "/assets/news/best-seller-product/img-news-sfh3.webp"
+        ]
+      },
+      {
+        "type": "text",
+        "text": "The 2025 best sellers from Indomaja represent more than just products, they are a reflection of craftsmanship, material integrity, and timeless design. Whether it's the raw charm of limestone, the elegance of natural stone, or the modern versatility of GRC, each piece is created to inspire spaces and elevate everyday living."
+      }
+    ]
   },
   {
     "id": "legacy-handmade-clay-art",
     "title": "A Legacy of Handmade Clay Art From Yogyakarta",
     "image": "/assets/news/news-card-thumbnail1.webp",
-    "detailImage": "/assets/news/detail/detail-news-main-thumbnail2.webp",
-    "smallThumbnail": "/assets/news/detail/detail-news-small-thumbnail2.webp",
+    "detailImage": "/assets/news/a-legacy-of-handmade/detail-news-main-thumbnail2.webp",
+    "smallThumbnail": "/assets/news/news-card-thumbnail1.webp",
     "date": "April 15, 2026",
     "author": "Craft Admin",
     "category": "Heritage",
     "description": "For generations, local artisans have transformed simple clay into beautiful handmade pieces, carrying forward a tradition that reflects the culture, creativity, and craftsmanship of the region.",
-    "content": "For generations, Yogyakarta has been known as one of Indonesia’s cultural centers, where traditional craftsmanship continues to thrive through the hands of skilled local artisans. Among these traditions, clay art holds a special place, reflecting a heritage that combines creativity, technique, and deep respect for natural materials.\n\nAt Indomaja, this legacy is preserved through a dedication to authentic terracotta craftsmanship. Each piece begins with carefully sourced clay, selected for its quality and character. Through a meticulous process of shaping, drying, and firing, artisans transform raw material into refined forms that carry both function and artistic expression.\n\nWhat makes handmade clay art from Yogyakarta truly unique is its human touch. Every curve, texture, and finish reflects the individuality of the artisan, resulting in subtle variations that give each piece its own identity. These natural imperfections are not flaws, but rather defining elements that highlight the authenticity and soul of the craft.\n\nBeyond its aesthetic appeal, terracotta also offers versatility and durability, making it suitable for a wide range of applications—from decorative accents to functional pieces in residential, commercial, and hospitality spaces. Its warm tones and organic textures allow it to seamlessly integrate into both traditional and contemporary environments.\n\nAs global appreciation for handmade products continues to grow, Indomaja remains committed to supporting local artisans and sustaining this cultural heritage. By bringing handcrafted clay art from Yogyakarta to international markets, we not only share beautiful products, but also preserve a legacy that has been shaped over generations.\n\nThrough every piece, Indomaja invites the world to experience the timeless beauty of Indonesian craftsmanship—where tradition, artistry, and nature come together in perfect harmony."
+    "content": "Just outside Yogyakarta lies the cultural village of Kasongan, a place where clay is more than a material, it is a living heritage. For generations, artisans here have transformed raw earth into handcrafted works of art, preserving a tradition that continues to thrive in the modern world.\n\nThe uniqueness of Kasongan pottery lies in its deep-rooted tradition. Skills are passed down from one generation to the next, often within families who have dedicated their lives to this craft. From shaping the clay by hand to the careful drying and firing process, every step reflects patience, precision, and cultural identity.\n\nWhile grounded in tradition, Kasongan artisans are far from static. Over time, they have evolved, embracing contemporary forms, global design trends, and new creative expressions. Today, their creations range from functional household items to decorative pieces such as vases, planters, and artistic sculptures that appeal to both local and international markets. What sets Kasongan apart is its authenticity. Each piece carries natural textures and subtle imperfections that highlight the beauty of handmade work.\n\nKasongan is not just a production center, it is a vibrant creative ecosystem. Workshops and galleries often exist side by side with homes, allowing visitors to witness the entire process firsthand. This immersive experience makes Kasongan a destination where culture, craftsmanship, and community are seamlessly connected.\n\nIn a fast-paced, mass-produced world, Kasongan stands as a reminder of the value of craftsmanship and heritage. Its clay art is not just decoration, it is a story, a tradition, and a timeless expression of Indonesian artistry that continues to inspire across generations."
   },
   {
     "id": "from-workshop-to-world",
-    "title": "From Workshop To World: The Journey of Indomaja’s Craftmanship",
+    "title": "From Workshop To World: The Journey of Indomaja's Craftmanship",
     "image": "/assets/news/news-card-thumbnail2.webp",
-    "detailImage": "/assets/news/detail/detail-news-main-thumbnail3.webp",
-    "smallThumbnail": "/assets/news/detail/detail-news-small-thumbnail3.webp",
+    "detailImage": "/assets/news/from-workshop-to-world/detail-news-main-thumbnail3.webp",
+    "smallThumbnail": "/assets/news/news-card-thumbnail2.webp",
     "date": "March 20, 2026",
     "author": "Global Sales",
     "category": "Logistics",
     "description": "Discover how Indomaja transforms raw natural materials into handcrafted pieces, delivered to global markets with precision and care.",
-    "content": "Behind every Indomaja creation lies a journey that begins in local workshops and extends across international borders. This journey reflects not only the transformation of raw materials into refined products, but also the dedication, coordination, and craftsmanship involved at every stage of the process.\n\nIt starts with the careful sourcing of natural materials from various regions across Indonesia. Clay, stone, and other elements are selected based on their quality, durability, and character—ensuring that each product meets the standards expected by global markets. These materials are then brought to our production facilities, where skilled artisans begin the process of shaping and refining each piece by hand.\n\nThroughout the production phase, attention to detail is essential. From forming and finishing to quality inspection, every step is carried out with precision to maintain consistency and excellence. This process ensures that each product not only meets aesthetic expectations but also delivers long-lasting performance across different environments.\n\nOnce completed, the products move into the logistics stage, where they are carefully packed and prepared for international shipment. With structured warehouse management and efficient container loading, Indomaja ensures that every piece is delivered safely and on schedule.\n\nFrom workshop to world, this journey represents more than just distribution—it reflects Indomaja’s commitment to quality, reliability, and global partnership. Each shipment carries not only handcrafted products, but also the story of Indonesian craftsmanship reaching homes and spaces around the world."
+    "content": "Behind every Indomaja creation lies a journey that begins in local workshops and extends across international borders. This journey reflects not only the transformation of raw materials into refined products, but also the dedication, coordination, and craftsmanship involved at every stage of the process.\n\nIt starts with the careful sourcing of natural materials from various regions across Indonesia. Clay, stone, and other elements are selected based on their quality, durability, and character—ensuring that each product meets the standards expected by global markets. These materials are then brought to our production facilities, where skilled artisans begin the process of shaping and refining each piece by hand.\n\nThroughout the production phase, attention to detail is essential. From forming and finishing to quality inspection, every step is carried out with precision to maintain consistency and excellence. This process ensures that each product not only meets aesthetic expectations but also delivers long-lasting performance across different environments.\n\nOnce completed, the products move into the logistics stage, where they are carefully packed and prepared for international shipment. With structured warehouse management and efficient container loading, Indomaja ensures that every piece is delivered safely and on schedule.\n\nFrom workshop to world, this journey represents more than just distribution—it reflects Indomaja's commitment to quality, reliability, and global partnership. Each shipment carries not only handcrafted products, but also the story of Indonesian craftsmanship reaching homes and spaces around the world."
   },
   {
     "id": "sustainable-craftsmanship",
     "title": "Sustainable Craftsmanship: Balancing Nature & Design",
     "image": "/assets/news/news-card-thumbnail3.webp",
-    "detailImage": "/assets/news/detail/detail-news-main-thumbnail4.webp",
-    "smallThumbnail": "/assets/news/detail/detail-news-small-thumbnail4.webp",
+    "detailImage": "/assets/news/sustainable-craftmanship/detail-news-main-thumbnail4.webp",
+    "smallThumbnail": "/assets/news/news-card-thumbnail3.webp",
     "date": "February 5, 2026",
     "author": "Master Artisan",
-    "category": "Technique",
+    "category": "Sustainability",
     "description": "Indomaja embraces sustainable practices by combining natural materials, responsible sourcing, and handcrafted processes.",
-    "content": "As the demand for environmentally responsible products continues to grow, sustainability has become an essential aspect of modern design. At Indomaja, this principle is deeply embedded in the way we source materials, craft products, and manage our operations.\n\nOur approach begins with the use of natural materials such as stone and clay, sourced from regions known for their quality and sustainability. By working closely with local suppliers, we ensure that materials are obtained responsibly while supporting local communities and preserving natural resources.\n\nThe production process itself reflects a commitment to minimizing environmental impact. Each product is handcrafted using techniques that prioritize efficiency and reduce unnecessary waste. Unlike mass production, this approach allows for greater control over material usage while maintaining the authenticity and uniqueness of every piece.\n\nIn addition to responsible sourcing and production, durability plays a key role in sustainability. Indomaja’s products are designed to last, reducing the need for frequent replacement and contributing to more sustainable consumption over time. The timeless design of each piece further ensures that it remains relevant across changing trends.\n\nThrough sustainable craftsmanship, Indomaja seeks to create a balance between nature and design—where beauty is not only defined by appearance, but also by responsibility. By continuing to refine our processes and uphold our values, we aim to deliver products that are both meaningful and mindful for global audiences."
+    "content": "As the demand for environmentally responsible products continues to grow, sustainability has become an essential aspect of modern design. At Indomaja, this principle is deeply embedded in the way we source materials, craft products, and manage our operations.\n\nOur approach begins with the use of natural materials such as stone and clay, sourced from regions known for their quality and sustainability. By working closely with local suppliers, we ensure that materials are obtained responsibly while supporting local communities and preserving natural resources.\n\nThe production process itself reflects a commitment to minimizing environmental impact. Each product is handcrafted using techniques that prioritize efficiency and reduce unnecessary waste. Unlike mass production, this approach allows for greater control over material usage while maintaining the authenticity and uniqueness of every piece.\n\nIn addition to responsible sourcing and production, durability plays a key role in sustainability. Indomaja's products are designed to last, reducing the need for frequent replacement and contributing to more sustainable consumption over time. The timeless design of each piece further ensures that it remains relevant across changing trends.\n\nThrough sustainable craftsmanship, Indomaja seeks to create a balance between nature and design—where beauty is not only defined by appearance, but also by responsibility. By continuing to refine our processes and uphold our values, we aim to deliver products that are both meaningful and mindful for global audiences."
+  },
+  {
+    "id": "history-of-indomaja",
+    "title": "The History of Indomaja: A Journey Rooted in Nature and Craftmanship",
+    "image": "/assets/news/news-card-thumbnail4.webp",
+    "detailImage": "/assets/news/history-of-indomaja/detail-news-main-thumbnail5.webp",
+    "smallThumbnail": "/assets/news/news-card-thumbnail4.webp",
+    "date": "February 5, 2026",
+    "author": "Master Artisan",
+    "category": "Heritage",
+    "description": "Founded in Tulungagung, East Java, Indomaja was born from a deep passion for Indonesian natural art and craftsmanship.",
+    "content": "Founded in Tulungagung, East Java, Indomaja was born from a deep passion for Indonesian natural art and craftsmanship. What started as a small local workshop producing stone and clay decorations has now grown into a trusted export oriented company that delivers handcrafted home décor to clients around the world.\n\nOver the years, we have built a solid foundation through dedication, quality, and consistency. Our journey began with a simple mission, to introduce the beauty of Indonesian natural materials such as marble, onyx, and clay to the global market.\n\nTo enhance efficiency and meet growing demand, we expanded our operations by establishing production units in different cities, strategically chosen based on the availability of raw materials. This structure allows us to optimize transportation, minimize costs, and reduce production time while maintaining product quality and craftsmanship.\n\nToday, Indomaja collaborates with artisans, designers, and local communities to create products that blend natural beauty with modern design.\n\nThrough continuous improvement and strong business ethics, we have successfully established long-term partnerships with clients from Netherland, United Arab Emirates, Australia, Sweden, Canada, United States, and etc.\n\nFrom humble beginnings to international recognition, Indomaja continues to grow with one clear vision, to become a trusted global partner in sustainable handcrafted home décor."
   }
 ]
-

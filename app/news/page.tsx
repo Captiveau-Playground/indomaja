@@ -6,21 +6,22 @@ import newsData from "@/data/news.json";
 
 export const metadata = {
   title: "News - Indomaja",
-  description: "Stay updated with Indomaja's latest collections, exhibitions, and artisanal stories.",
+  description:
+    "Stay updated with Indomaja's latest collections, exhibitions, and artisanal stories.",
 };
 
 export default function NewsPage() {
   const featuredNews = newsData[0];
-  const otherNews = newsData.slice(1, 4); // Take the next 3 for the grid
+  const otherNews = newsData.slice(1, 5); // Take the next 4 for the grid
 
   return (
-    <main className="flex min-h-screen flex-col bg-white overflow-x-hidden gap-[10px]">
+    <main className="flex min-h-screen flex-col gap-[10px] overflow-x-hidden bg-white">
       <Navbar />
-      
+
       {/* Page Title */}
-      <section className="reveal pt-24 pb-12 md:pt-32 md:pb-16 lg:pt-[128px] lg:pb-[64px] text-center">
-        <div className="mx-auto max-w-[1920px] px-6 sm:px-16 lg:px-32 ">
-          <h1 className="text-h3 lg:text-h2 font-bold leading-none text-buccaneer-900 uppercase font-heading">
+      <section className="reveal pt-24 pb-12 text-center md:pt-32 md:pb-16 lg:pt-[128px] lg:pb-[64px]">
+        <div className="mx-auto max-w-[1920px] px-6 sm:px-16 lg:px-32">
+          <h1 className="text-h3 lg:text-h2 text-buccaneer-900 font-heading leading-none font-bold uppercase">
             NEWS
           </h1>
         </div>
@@ -28,17 +29,17 @@ export default function NewsPage() {
 
       {/* Featured News Section */}
       <section className="reveal pb-16 md:pb-24 lg:pb-[128px]">
-        <div className="mx-auto max-w-[1920px] px-6 sm:px-16 lg:px-32 ">
-          <Link 
+        <div className="mx-auto max-w-[1920px] px-6 sm:px-16 lg:px-32">
+          <Link
             href={`/news/${featuredNews.id}`}
-            className="group flex flex-col sm:flex-row gap-8 lg:gap-10 items-stretch"
+            className="group flex flex-col items-stretch gap-8 sm:flex-row lg:gap-10"
           >
-            <div className="order-2 sm:order-1 w-full sm:w-[40%] flex flex-col justify-between py-2 gap-6">
+            <div className="order-2 flex w-full flex-col justify-between gap-6 py-2 sm:order-1 sm:w-[40%]">
               <div>
-                <h2 className="text-h3 lg:text-h1 font-black text-buccaneer-900 leading-[1] mb-8 group-hover:text-buccaneer-700 transition-colors font-heading tracking-tight">
+                <h2 className="text-h3 lg:text-h1 text-buccaneer-900 group-hover:text-buccaneer-700 font-heading mb-8 line-clamp-3 leading-snug font-black tracking-tight transition-colors">
                   {featuredNews.title}
                 </h2>
-                <p className="text-[#6D6D6D] text-body-md lg:text-body-lg leading-relaxed">
+                <p className="text-body-md lg:text-body-lg leading-relaxed text-[#6D6D6D]">
                   {featuredNews.description}
                 </p>
               </div>
@@ -46,12 +47,12 @@ export default function NewsPage() {
                 {featuredNews.date}
               </div>
             </div>
-            <div className="order-1 sm:order-2 w-full sm:w-[60%] relative aspect-square sm:aspect-[16/9] lg:w-[976px] lg:h-[548px] overflow-hidden">
+            <div className="relative order-1 aspect-square w-full overflow-hidden sm:order-2 sm:aspect-[16/9] sm:w-[60%] lg:h-[548px] lg:w-[976px]">
               <Image
                 src={featuredNews.image}
                 alt={featuredNews.title}
                 fill
-                className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
                 priority
               />
             </div>
@@ -60,16 +61,16 @@ export default function NewsPage() {
       </section>
 
       {/* News Grid Section */}
-      <section className="reveal py-0 pb-16 md:py-24 border-t border-gray-100">
-        <div className="mx-auto max-w-[1920px] px-6 sm:px-16 lg:px-32 ">
-          <div className="flex overflow-x-auto lg:grid lg:grid-cols-3 gap-6 lg:gap-10 pb-4 lg:pb-0 snap-x no-scrollbar touch-pan-x">
+      <section className="reveal border-t border-gray-100 py-0 pb-16 md:py-24">
+        <div className="mx-auto max-w-[1920px] px-6 sm:px-16 lg:px-32">
+          <div className="no-scrollbar flex touch-pan-x snap-x gap-6 overflow-x-auto pb-4 lg:grid lg:grid-cols-4 lg:gap-10 lg:pb-0">
             {otherNews.map((item) => (
-              <Link 
-                key={item.id} 
+              <Link
+                key={item.id}
                 href={`/news/${item.id}`}
-                className="group flex flex-col shrink-0 w-[280px] sm:w-[360px] md:w-[420px] lg:w-full snap-start"
+                className="group flex w-[280px] shrink-0 snap-start flex-col sm:w-[360px] md:w-[420px] lg:w-full"
               >
-                <div className="relative aspect-[4/3] mb-6 md:mb-10 overflow-hidden">
+                <div className="relative mb-6 aspect-[4/3] overflow-hidden md:mb-10">
                   <Image
                     src={item.image}
                     alt={item.title}
@@ -77,12 +78,12 @@ export default function NewsPage() {
                     className="object-cover transition-transform duration-700 group-hover:scale-105"
                   />
                 </div>
-                
-                <h3 className="font-heading text-[24px] md:text-[28px] lg:text-[32px] text-buccaneer-900 font-extrabold leading-[1.2] mb-4 md:mb-6 group-hover:text-buccaneer-700 transition-colors tracking-tight">
+
+                <h3 className="font-heading text-buccaneer-900 group-hover:text-buccaneer-700 mb-4 line-clamp-3 text-[24px] leading-snug font-extrabold tracking-tight transition-colors md:mb-6 md:text-[28px] lg:text-[32px]">
                   {item.title}
                 </h3>
-                
-                <p className="text-[#6B7280] text-[14px] md:text-[16px] leading-[1.6] line-clamp-3 font-sans">
+
+                <p className="line-clamp-3 font-sans text-[14px] leading-[1.6] text-[#6B7280] md:text-[16px]">
                   {item.description}
                 </p>
               </Link>
@@ -95,4 +96,3 @@ export default function NewsPage() {
     </main>
   );
 }
-

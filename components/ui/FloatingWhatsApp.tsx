@@ -1,6 +1,6 @@
 "use client";
 
-import { MessageCircle } from "lucide-react";
+import Image from "next/image";
 import Link from "next/link";
 
 export default function FloatingWhatsApp() {
@@ -15,10 +15,12 @@ export default function FloatingWhatsApp() {
       className="group fixed right-6 bottom-6 z-40 flex h-14 w-14 items-center justify-center rounded-full bg-green-500 shadow-lg transition-all duration-300 hover:scale-110 hover:bg-green-600 hover:shadow-xl"
       aria-label="Chat with us on WhatsApp"
     >
-      <MessageCircle
-        size={24}
-        className="text-white transition-transform duration-300 group-hover:scale-125"
-        strokeWidth={1.5}
+      <Image
+        src="/assets/wa.png"
+        alt="Indomaja Logo"
+        width={25}
+        height={25}
+        className="h-[25px] w-[25px] object-contain"
       />
 
       {/* Pulse animation */}
