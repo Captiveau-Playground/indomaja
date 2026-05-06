@@ -179,7 +179,7 @@ const Footer = () => {
         <div>
           <div className="flex flex-col items-start justify-between gap-1 lg:flex-row lg:items-end lg:gap-0">
             <p className="text-buccaneer-200 font-sans text-[14px] leading-relaxed">
-              © 2026 MULAI+. All rights reserved.
+              © 2026 indomaja.co. All rights reserved.
             </p>
             <p className="text-buccaneer-200 font-sans text-[12px] leading-relaxed opacity-60">
               Powered by Captiveau Creative Tech Studio

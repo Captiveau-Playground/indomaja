@@ -83,7 +83,7 @@ export default async function GalleryDetailPage({ params }: { params: Promise<{ 
           {/* Mosaic Grid Layout */}
           <div className="grid w-full grid-cols-2 border-t border-l border-gray-50 lg:grid-cols-3">
             {/* Cell 1: Image 1 */}
-            <div className="relative order-1 overflow-hidden border-r border-b border-gray-50 sm:aspect-square lg:aspect-[3/4]">
+            <div className="relative order-1 overflow-hidden border-r border-b border-gray-50 sm:aspect-square">
               <Image src={heroImages[0]} alt="Hero 1" fill className="object-cover" />
             </div>
 
@@ -95,7 +95,7 @@ export default async function GalleryDetailPage({ params }: { params: Promise<{ 
             </div>
 
             {/* Cell 3: Image 2 */}
-            <div className="relative order-4 overflow-hidden border-r border-b border-gray-50 sm:aspect-square lg:order-4 lg:aspect-[3/4]">
+            <div className="relative order-4 overflow-hidden border-r border-b border-gray-50 sm:aspect-square lg:order-4">
               <Image src={heroImages[1]} alt="Hero 2" fill className="object-cover" />
             </div>
 
@@ -107,7 +107,7 @@ export default async function GalleryDetailPage({ params }: { params: Promise<{ 
             </div>
 
             {/* Cell 5: Image 3 */}
-            <div className="relative order-5 overflow-hidden border-r border-b border-gray-50 sm:aspect-square lg:order-2 lg:aspect-[3/4]">
+            <div className="relative order-5 overflow-hidden border-r border-b border-gray-50 sm:aspect-square lg:order-2">
               <Image src={heroImages[2]} alt="Hero 3" fill className="object-cover" />
             </div>
 
