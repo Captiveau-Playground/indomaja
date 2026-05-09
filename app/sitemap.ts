@@ -3,7 +3,7 @@ import productsData from "@/data/products.json";
 import newsData from "@/data/news.json";
 import galleryData from "@/data/gallery.json";
 
-const BASE_URL = "https://indomaja.co";
+const BASE_URL = "https://indomaja.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const today = new Date().toISOString().split("T")[0];
