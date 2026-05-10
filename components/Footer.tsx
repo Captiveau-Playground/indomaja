@@ -182,7 +182,8 @@ const Footer = () => {
               © 2026 indomaja.co. All rights reserved.
             </p>
             <p className="text-buccaneer-200 font-sans text-[12px] leading-relaxed opacity-60">
-              Powered by Captiveau Creative Tech Studio
+              Powered by {" "}
+              <Link className="hover:cursor-pointer" href="https://captiveau.fun" target="_blank">Captiveau | Creative Tech Studio</Link>
             </p>
           </div>
         </div>
