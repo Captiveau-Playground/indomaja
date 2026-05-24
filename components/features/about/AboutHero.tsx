@@ -32,6 +32,8 @@ const AboutHero = () => {
             alt="About Indomaja Artisan"
             fill
             className="object-cover"
+            sizes="(max-width: 1024px) 100vw, 40vw"
+            quality={75}
             style={{ objectPosition: "center" }}
             priority
           />

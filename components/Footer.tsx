@@ -23,6 +23,7 @@ const Footer = () => {
                 width={339}
                 height={77}
                 className="h-[50px] w-auto object-contain md:h-[60px] lg:h-[77px] lg:w-[339px]"
+                unoptimized
               />
             </Link>
           </div>
@@ -117,10 +118,11 @@ const Footer = () => {
                     <div className="flex h-10 w-10 shrink-0 items-center justify-center">
                       <Image
                         src="/assets/wa.png"
-                        alt="Indomaja Logo"
+                        alt="WhatsApp"
                         width={20}
-                        height={16}
+                        height={20}
                         className="h-[20px] w-[20px] object-contain"
+                        unoptimized
                       />
                     </div>
                     <span className="font-heading text-body-md text-buccaneer-400 block">
@@ -128,16 +130,17 @@ const Footer = () => {
                     </span>
                   </a>
                   <a
-                    href="mailto:indomaja22@gmail.com"
+                    href="mailto:info@indomaja.com"
                     className="text-buccaneer-200 group flex items-center gap-5"
                   >
                     <div className="flex h-10 w-10 shrink-0 items-center justify-center">
                       <Image
                         src="/assets/email.png"
-                        alt="Indomaja Logo"
+                        alt="Email"
                         width={20}
-                        height={16}
+                        height={20}
                         className="h-[20px] w-[20px] object-contain"
+                        unoptimized
                       />
                     </div>
                     <span className="font-heading text-body-md text-buccaneer-400 block">
@@ -160,10 +163,11 @@ const Footer = () => {
                   <div className="flex h-10 w-10 shrink-0 items-center justify-center">
                     <Image
                       src="/assets/ig.png"
-                      alt="Indomaja Logo"
+                      alt="Instagram"
                       width={20}
-                      height={16}
+                      height={20}
                       className="h-[20px] w-[20px] object-contain"
+                      unoptimized
                     />
                   </div>
                   <span className="font-heading text-body-md text-buccaneer-400 block">
@@ -182,8 +186,10 @@ const Footer = () => {
               © 2026 indomaja.co. All rights reserved.
             </p>
             <p className="text-buccaneer-200 font-sans text-[12px] leading-relaxed opacity-60">
-              Powered by {" "}
-              <Link className="hover:cursor-pointer" href="https://captiveau.fun" target="_blank">Captiveau | Creative Tech Studio</Link>
+              Powered by{" "}
+              <Link className="hover:cursor-pointer" href="https://captiveau.fun" target="_blank">
+                Captiveau | Creative Tech Studio
+              </Link>
             </p>
           </div>
         </div>

@@ -136,7 +136,14 @@ export default async function ProductDetailPage({
           <div className="grid w-full grid-cols-2 border-t border-l border-gray-50 lg:grid-cols-3">
             {/* Cell 1: Image 1 */}
             <div className="relative order-1 aspect-[3/4] overflow-hidden border-r border-b border-gray-50 sm:aspect-square">
-              <Image src={heroImages[0]} alt="Hero 1" fill className="object-cover" />
+              <Image
+                src={heroImages[0]}
+                alt="Hero 1"
+                fill
+                className="object-cover"
+                sizes="(max-width: 1024px) 50vw, 33vw"
+                quality={65}
+              />
             </div>
             {/* Cell 2: Text 1 */}
             <div className="order-2 flex items-center justify-center border-r border-b border-gray-50 bg-white p-6 lg:p-12">
@@ -152,12 +159,26 @@ export default async function ProductDetailPage({
             </div>
             {/* Cell 4: Text 2 (lg: order 4) / Image 2 (sm: order 4) */}
             <div className="relative order-4 aspect-[3/4] overflow-hidden border-r border-b border-gray-50 sm:aspect-square lg:order-3">
-              <Image src={heroImages[1]} alt="Hero 2" fill className="object-cover" />
+              <Image
+                src={heroImages[1]}
+                alt="Hero 2"
+                fill
+                className="object-cover"
+                sizes="(max-width: 1024px) 50vw, 33vw"
+                quality={65}
+              />
             </div>
 
             {/* Cell 5: Image 3 */}
             <div className="relative order-5 aspect-[3/4] overflow-hidden border-r border-b border-gray-50 sm:aspect-square">
-              <Image src={heroImages[2]} alt="Hero 3" fill className="object-cover" />
+              <Image
+                src={heroImages[2]}
+                alt="Hero 3"
+                fill
+                className="object-cover"
+                sizes="(max-width: 1024px) 50vw, 33vw"
+                quality={65}
+              />
             </div>
             {/* Cell 6: Text 3 */}
             <div className="order-6 flex items-center justify-center border-r border-b border-gray-50 bg-white p-6 lg:p-12">

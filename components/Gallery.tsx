@@ -42,9 +42,17 @@ const Gallery = ({ title, subtitle, isPage = false }: GalleryProps) => {
               alt={latestShipping?.title || "Latest Shipping"}
               fill
               className="object-cover transition-transform duration-700 group-hover:scale-110"
+              sizes="50vw"
+              quality={65}
             />
             <div className="absolute inset-0 transition-opacity duration-300">
-              <Image src="/assets/overlay.png" alt="Overlay" fill className="object-cover" />
+              <Image
+                src="/assets/overlay.png"
+                alt="Overlay"
+                fill
+                className="object-cover"
+                unoptimized
+              />
             </div>
             <div className="absolute bottom-0 left-0 w-full p-3 text-white sm:p-6 lg:p-10">
               <p className="lg:text-special-h2 mb-1 font-sans text-[16px] leading-none font-medium tracking-tight uppercase sm:text-[24px]">
@@ -67,10 +75,18 @@ const Gallery = ({ title, subtitle, isPage = false }: GalleryProps) => {
                 alt={productionProcess?.title || "Production Process"}
                 fill
                 className="object-cover transition-transform duration-700 group-hover:scale-110"
+                sizes="50vw"
+                quality={65}
                 style={{ objectPosition: "center top" }}
               />
               <div className="absolute inset-0 transition-opacity duration-300">
-                <Image src="/assets/overlay2.png" alt="Overlay" fill className="object-cover" />
+                <Image
+                  src="/assets/overlay2.png"
+                  alt="Overlay"
+                  fill
+                  className="object-cover"
+                  unoptimized
+                />
               </div>
               <div className="absolute bottom-0 left-0 w-full p-3 text-white sm:p-6 lg:p-8">
                 <p className="lg:text-special-h2 mb-1 font-sans text-[16px] leading-none font-medium tracking-tight uppercase sm:text-[24px]">
@@ -91,9 +107,17 @@ const Gallery = ({ title, subtitle, isPage = false }: GalleryProps) => {
                 alt={ourWarehouse?.title || "Our Warehouse"}
                 fill
                 className="object-cover transition-transform duration-700 group-hover:scale-110"
+                sizes="50vw"
+                quality={65}
               />
               <div className="absolute inset-0 transition-opacity duration-300">
-                <Image src="/assets/overlay2.png" alt="Overlay" fill className="object-cover" />
+                <Image
+                  src="/assets/overlay2.png"
+                  alt="Overlay"
+                  fill
+                  className="object-cover"
+                  unoptimized
+                />
               </div>
               <div className="absolute bottom-0 left-0 w-full p-3 text-white sm:p-6 lg:p-8">
                 <p className="lg:text-special-h2 mb-1 font-sans text-[16px] leading-none font-medium tracking-tight uppercase sm:text-[24px]">

@@ -54,6 +54,8 @@ export default function NewsPage() {
                 fill
                 className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
                 priority
+                sizes="(max-width: 1024px) 100vw, 60vw"
+                quality={75}
               />
             </div>
           </Link>
@@ -76,6 +78,8 @@ export default function NewsPage() {
                     alt={item.title}
                     fill
                     className="object-cover transition-transform duration-700 group-hover:scale-105"
+                    sizes="(max-width: 1024px) 100vw, 25vw"
+                    quality={65}
                   />
                 </div>
 

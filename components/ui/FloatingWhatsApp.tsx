@@ -17,10 +17,11 @@ export default function FloatingWhatsApp() {
     >
       <Image
         src="/assets/wa.png"
-        alt="Indomaja Logo"
+        alt="WhatsApp"
         width={25}
         height={25}
         className="h-[25px] w-[25px] object-contain"
+        unoptimized
       />
 
       {/* Pulse animation */}

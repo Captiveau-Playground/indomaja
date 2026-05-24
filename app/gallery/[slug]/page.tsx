@@ -84,7 +84,14 @@ export default async function GalleryDetailPage({ params }: { params: Promise<{ 
           <div className="grid w-full grid-cols-2 border-t border-l border-gray-50 lg:grid-cols-3">
             {/* Cell 1: Image 1 */}
             <div className="relative order-1 overflow-hidden border-r border-b border-gray-50 sm:aspect-square">
-              <Image src={heroImages[0]} alt="Hero 1" fill className="object-cover" />
+              <Image
+                src={heroImages[0]}
+                alt="Hero 1"
+                fill
+                className="object-cover"
+                sizes="(max-width: 1024px) 50vw, 33vw"
+                quality={65}
+              />
             </div>
 
             {/* Cell 2: Text 1 */}
@@ -96,7 +103,14 @@ export default async function GalleryDetailPage({ params }: { params: Promise<{ 
 
             {/* Cell 3: Image 2 */}
             <div className="relative order-4 overflow-hidden border-r border-b border-gray-50 sm:aspect-square lg:order-4">
-              <Image src={heroImages[1]} alt="Hero 2" fill className="object-cover" />
+              <Image
+                src={heroImages[1]}
+                alt="Hero 2"
+                fill
+                className="object-cover"
+                sizes="(max-width: 1024px) 50vw, 33vw"
+                quality={65}
+              />
             </div>
 
             {/* Cell 4: Text 2 */}
@@ -108,7 +122,14 @@ export default async function GalleryDetailPage({ params }: { params: Promise<{ 
 
             {/* Cell 5: Image 3 */}
             <div className="relative order-5 overflow-hidden border-r border-b border-gray-50 sm:aspect-square lg:order-2">
-              <Image src={heroImages[2]} alt="Hero 3" fill className="object-cover" />
+              <Image
+                src={heroImages[2]}
+                alt="Hero 3"
+                fill
+                className="object-cover"
+                sizes="(max-width: 1024px) 50vw, 33vw"
+                quality={65}
+              />
             </div>
 
             {/* Cell 6: Text 3 */}
@@ -135,6 +156,8 @@ export default async function GalleryDetailPage({ params }: { params: Promise<{ 
                   alt={item.title}
                   fill
                   className="object-cover transition-transform duration-1000 group-hover:scale-110"
+                  sizes="(max-width: 640px) 33vw, 25vw"
+                  quality={65}
                 />
                 <div className="bg-buccaneer-900/10 absolute inset-0 opacity-0 transition-opacity duration-500 group-hover:opacity-100" />
               </div>

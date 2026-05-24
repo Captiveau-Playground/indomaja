@@ -51,6 +51,8 @@ export default async function NewsDetailPage({ params }: { params: Promise<{ slu
                   fill
                   priority
                   className="object-cover"
+                  sizes="(max-width: 1024px) 100vw, 66vw"
+                  quality={75}
                 />
               </div>
 
@@ -118,6 +120,8 @@ export default async function NewsDetailPage({ params }: { params: Promise<{ slu
                                     alt={`${section.heading} ${imgIdx + 1}`}
                                     fill
                                     className="object-cover"
+                                    sizes="(max-width: 768px) 100vw, 22vw"
+                                    quality={65}
                                   />
                                 </div>
                               ))}
@@ -160,6 +164,8 @@ export default async function NewsDetailPage({ params }: { params: Promise<{ slu
                                         alt={`${sub.name} ${imgIdx + 1}`}
                                         fill
                                         className="object-cover"
+                                        sizes="(max-width: 768px) 100vw, 33vw"
+                                        quality={65}
                                       />
                                     </div>
                                   ))}
@@ -254,6 +260,8 @@ export default async function NewsDetailPage({ params }: { params: Promise<{ slu
                           alt={item.title}
                           fill
                           className="object-cover transition-transform duration-500 group-hover:scale-105"
+                          sizes="(max-width: 1024px) 100vw, 25vw"
+                          quality={65}
                         />
                       </div>
                       <h3 className="font-heading text-buccaneer-900 group-hover:text-buccaneer-700 mb-4 line-clamp-2 text-[24px] leading-[1.2] font-extrabold tracking-tight transition-colors md:text-[28px]">
@@ -287,6 +295,8 @@ export default async function NewsDetailPage({ params }: { params: Promise<{ slu
                           alt={item.title}
                           fill
                           className="object-cover transition-transform duration-500 group-hover:scale-105"
+                          sizes="160px"
+                          quality={65}
                         />
                       </div>
                       <div className="flex flex-col gap-2">

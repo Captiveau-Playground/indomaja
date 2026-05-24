@@ -16,6 +16,8 @@ const AboutGallery = () => {
                 alt={gallery[0].alt}
                 fill
                 className="object-cover transition-transform duration-500 hover:scale-105"
+                sizes="(max-width: 640px) 100vw, 50vw"
+                quality={65}
               />
             </div>
             <div className="flex flex-row gap-4 lg:gap-8">
@@ -25,6 +27,8 @@ const AboutGallery = () => {
                   alt={gallery[2].alt}
                   fill
                   className="object-cover transition-transform duration-500 hover:scale-105"
+                  sizes="(max-width: 640px) 50vw, 25vw"
+                  quality={65}
                 />
               </div>
               <div className="relative aspect-[2/3] w-full overflow-hidden">
@@ -33,6 +37,8 @@ const AboutGallery = () => {
                   alt={gallery[3].alt}
                   fill
                   className="object-cover transition-transform duration-500 hover:scale-105"
+                  sizes="(max-width: 640px) 50vw, 25vw"
+                  quality={65}
                 />
               </div>
             </div>
@@ -45,6 +51,8 @@ const AboutGallery = () => {
               alt={gallery[1].alt}
               fill
               className="object-cover transition-transform duration-500 hover:scale-105"
+              sizes="(max-width: 640px) 100vw, 50vw"
+              quality={65}
             />
           </div>
         </div>

@@ -19,6 +19,8 @@ const Hero = () => {
             fill
             className="object-cover"
             priority
+            sizes="(min-width: 640px) 100vw"
+            quality={75}
             fetchPriority="high"
           />
         </div>
@@ -30,6 +32,8 @@ const Hero = () => {
             fill
             className="object-cover"
             priority
+            sizes="(max-width: 639px) 100vw"
+            quality={75}
             fetchPriority="high"
           />
         </div>
@@ -44,7 +48,8 @@ const Hero = () => {
           alt="Indomaja"
           width={250}
           height={52}
-          className="mb-8 w-[180px] opacity-90 md:w-[250px]"
+          className="mb-8 h-auto w-[180px] opacity-90 md:w-[250px]"
+          unoptimized
         />
 
         <h1 className="md:text-special-h1 font-heading tracking-heading max-w-4xl text-[48px] leading-[1.1] text-white uppercase">
