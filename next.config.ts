@@ -2,6 +2,11 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   images: {
+    // All images are local, already pre-optimized webp/png in /public.
+    // Disabling Vercel's on-the-fly optimizer stops consuming the
+    // Image Optimization transformation quota entirely (5k/mo on Hobby),
+    // while next/image still handles lazy loading, priority & layout.
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: "https",

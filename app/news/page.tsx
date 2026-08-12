@@ -12,7 +12,7 @@ export const metadata = {
 
 export default function NewsPage() {
   const featuredNews = newsData[0];
-  const otherNews = newsData.slice(1, 5); // Take the next 4 for the grid
+  const otherNews = newsData.slice(1, 11); // Take the next 4 for the grid
 
   return (
     <main className="flex min-h-screen flex-col gap-[10px] overflow-x-hidden bg-white">
