@@ -60,7 +60,7 @@ const jsonLd = [
     logo: "https://indomaja.co/assets/logo.png",
     contactPoint: {
       "@type": "ContactPoint",
-      telephone: "+62 812 3456 7890",
+      telephone: "+62 813-9130-746",
       contactType: "customer service",
       areaServed: "Worldwide",
       availableLanguage: ["Indonesian", "English"],

@@ -1,5 +1,77 @@
 [
   {
+    "id": "art-of-vintage-terracotta",
+    "title": "The Art of Vintage Terracotta Style",
+    "image": "/assets/news/art-of-vintage-terracotta/IMG_0001.webp",
+    "detailImage": "/assets/news/art-of-vintage-terracotta/IMG_0001.webp",
+    "smallThumbnail": "/assets/news/art-of-vintage-terracotta/IMG_0001.webp",
+    "date": "12 Aug 2026",
+    "author": "Indomaja Team",
+    "category": "Craftsmanship",
+    "description": "How Indomaja artisans transform fresh kiln-fired clay into pieces that carry an old-world spirit, with hand-applied patina, natural gradations, and one-of-a-kind character.",
+    "content": "Inside a bamboo-roofed workshop in Yogyakarta, a clay pot still warm from the kiln sits quietly on a wooden potter's wheel. Its shape is perfect, its surface smooth, its color a true brick red. But for the artisans at Indomaja, this is only half the story. The other half begins when their hands start working to transform that newness into the traces of time. It's not just about the color, but a process that honors age even though the piece is less than a day old. This is what we call the vintage terracotta style.\n\n1. From Fire to Maturity\nEach piece begins with hand-shaping on the potter's wheel, is left to dry slowly, and then fired in a kiln. Unlike wood-fired kilns, where temperatures fluctuate with the flames, our kiln uses gas, providing stable and even heat throughout every corner of the kiln from start to finish.\n\nIt is this consistent temperature that makes all the difference. The clay is thoroughly fired, resulting in a deep, natural terracotta color and a denser, stronger body, free from the brittleness often found in underfired areas, as is common with traditional wood-fired kilns. This warm, authentic, and perfectly matured base color serves as the canvas for the next stage.\n\n2. A Touch That Transcends Time\nOnce the piece has cooled, the stage that most defines its vintage character begins, the manual application of color layers or whitewash, sprayed using simple tools and applied by hand. Our artisans do not strive for uniformity, quite the opposite. They allow the distinctive patina to build up on one side and fade on the other, leaving natural gradations reminiscent of dust that has settled over decades.\n\nEvery stroke is a spontaneous decision. No two pieces are identical, because the human hand never repeats the exact same movement twice. The result is a textured surface that appears weathered, stained by earth, and touched by generations, even though it was just born from the kiln this week.\n\n3. A Technique Rooted in Tradition and Creativity\nThis is the philosophy that sets Indomaja's vintage terracotta products apart from mere old pots collected from villages. These pieces are newly crafted, yet their finish carries an old-world spirit, a technique that demands patience and artistic instinct, not machines or molds.\n\nOur artisans have learned this technique through years of observing how ancient pottery truly ages, how natural lime settles into the crevices, how dust and moss leave uneven marks, and how rainwater forms vertical patterns on the body of the jar over dozens of seasons. All these observations are translated back into the movements of their hands, applied to pottery still fresh from the kiln.\n\n4. Character That Can't Be Mass-Produced\nEvery vase, pot, and jar in the vintage terracotta collection bears its own unique fingerprint, variations in shades of white terracotta, texture thickness, and shapes born from human hands, not industrial molds. This is the value sought by architects, interior designers, and villa developers who want pieces with a story, not just decorations.\n\nFrom Yogyakarta, this collection is shipped to homes and spaces around the world, carrying with it the mark of the Indomaja artisans who have kept this craft alive for more than three decades.\n\nOur vintage terracotta pieces could be the perfect choice for you, or perhaps you're more interested in authentic antique pots? Contact us to find the option that best suits your style.",
+    "sections": [
+      {
+        "type": "text",
+        "text": "Inside a bamboo-roofed workshop in Yogyakarta, a clay pot still warm from the kiln sits quietly on a wooden potter's wheel. Its shape is perfect, its surface smooth, its color a true brick red. But for the artisans at Indomaja, this is only half the story. The other half begins when their hands start working to transform that newness into the traces of time. It's not just about the color, but a process that honors age even though the piece is less than a day old. This is what we call the vintage terracotta style."
+      },
+      {
+        "type": "numbered",
+        "number": 1,
+        "heading": "From Fire to Maturity",
+        "paragraphs": [
+          "Each piece begins with hand-shaping on the potter's wheel, is left to dry slowly, and then fired in a kiln. Unlike wood-fired kilns, where temperatures fluctuate with the flames, our kiln uses gas, providing stable and even heat throughout every corner of the kiln from start to finish.",
+          "It is this consistent temperature that makes all the difference. The clay is thoroughly fired, resulting in a deep, natural terracotta color and a denser, stronger body, free from the brittleness often found in underfired areas, as is common with traditional wood-fired kilns. This warm, authentic, and perfectly matured base color serves as the canvas for the next stage."
+        ],
+        "images": [
+          "/assets/news/art-of-vintage-terracotta/IMG_0002.webp",
+          "/assets/news/art-of-vintage-terracotta/IMG_0003.webp"
+        ]
+      },
+      {
+        "type": "numbered",
+        "number": 2,
+        "heading": "A Touch That Transcends Time",
+        "paragraphs": [
+          "Once the piece has cooled, the stage that most defines its vintage character begins, the manual application of color layers or whitewash, sprayed using simple tools and applied by hand. Our artisans do not strive for uniformity, quite the opposite. They allow the distinctive patina to build up on one side and fade on the other, leaving natural gradations reminiscent of dust that has settled over decades.",
+          "Every stroke is a spontaneous decision. No two pieces are identical, because the human hand never repeats the exact same movement twice. The result is a textured surface that appears weathered, stained by earth, and touched by generations, even though it was just born from the kiln this week."
+        ],
+        "images": [
+          "/assets/news/art-of-vintage-terracotta/IMG_0004.webp",
+          "/assets/news/art-of-vintage-terracotta/IMG_0005.webp"
+        ]
+      },
+      {
+        "type": "numbered",
+        "number": 3,
+        "heading": "A Technique Rooted in Tradition and Creativity",
+        "paragraphs": [
+          "This is the philosophy that sets Indomaja's vintage terracotta products apart from mere old pots collected from villages. These pieces are newly crafted, yet their finish carries an old-world spirit, a technique that demands patience and artistic instinct, not machines or molds.",
+          "Our artisans have learned this technique through years of observing how ancient pottery truly ages, how natural lime settles into the crevices, how dust and moss leave uneven marks, and how rainwater forms vertical patterns on the body of the jar over dozens of seasons. All these observations are translated back into the movements of their hands, applied to pottery still fresh from the kiln."
+        ],
+        "images": []
+      },
+      {
+        "type": "numbered",
+        "number": 4,
+        "heading": "Character That Can't Be Mass-Produced",
+        "paragraphs": [
+          "Every vase, pot, and jar in the vintage terracotta collection bears its own unique fingerprint, variations in shades of white terracotta, texture thickness, and shapes born from human hands, not industrial molds. This is the value sought by architects, interior designers, and villa developers who want pieces with a story, not just decorations.",
+          "From Yogyakarta, this collection is shipped to homes and spaces around the world, carrying with it the mark of the Indomaja artisans who have kept this craft alive for more than three decades."
+        ],
+        "images": [
+          "/assets/news/art-of-vintage-terracotta/IMG_0006.webp",
+          "/assets/news/art-of-vintage-terracotta/IMG_0007.webp",
+          "/assets/news/art-of-vintage-terracotta/IMG_0008.webp"
+        ]
+      },
+      {
+        "type": "text",
+        "text": "Our vintage terracotta pieces could be the perfect choice for you, or perhaps you're more interested in authentic antique pots? Contact us to find the option that best suits your style."
+      }
+    ]
+  },
+  {
     "id": "best-seller-collection-2025",
     "title": "2025 INDOMAJA Best Seller Collection",
     "image": "/assets/news/best-seller-product/detail-news-main-thumbnail1.webp",
@@ -9,7 +81,7 @@
     "author": "Indomaja Team",
     "category": "Collection",
     "description": "These best-selling pieces have become favorites among designers, collectors, and homeowners for their ability to transform ordinary spaces into distinctive environments.",
-    "content": "At Indomaja, every creation begins with a simple philosophy, transforming natural materials into timeless design. The 2025 best seller collection reflects what today's designers and homeowners value most: authenticity, durability, and understated elegance. From raw limestone to refined stone and modern GRC, each piece is crafted to elevate both indoor and outdoor spaces.\n\n1. Old Limestone Planter: Aged Beauty with Character\nThe Old Limestone Planter stands as one of the most iconic pieces in the collection. Formed by nature over time, each planter carries unique textures, weathered tones, and organic imperfections that cannot be replicated.\nThese planters are highly sought after for their rustic yet sophisticated look, perfect for tropical gardens, minimalist landscapes, or Mediterranean-inspired spaces. Beyond functionality, they serve as statement décor, bringing a sense of history and natural warmth into any environment.\n\n2. Stone Planter Collection: Natural Luxury\nThe Stone Planter Collection highlights the beauty of premium natural stones such as onyx, marble, and travertine. Each material offers its own visual identity, onyx with its translucent elegance, marble with its refined veining, and travertine with its earthy texture.\nDesigned for both interior and exterior use, these planters blend functionality with artistic value. They are ideal for luxury residences, villas, hotels, and commercial projects seeking a refined natural touch.\n\n3. GRC Planter Collection: Modern Form, Lightweight Strength\nFor contemporary spaces, the GRC (Glassfiber Reinforced Cement) Planter Collection offers the perfect balance between durability and design flexibility. Compared to solid stone, GRC is lighter yet strong, making it ideal for versatile applications.\nKey best sellers include:\nGRC Fence Planter – designed to integrate seamlessly with walls or fences\nCement Hourglass Pot – a sculptural, modern silhouette\nFlower Sleep Planter – a unique, artistic form that adds character to any space\nThis collection is widely favored for modern architecture, urban landscapes, and commercial environments due to its clean lines and adaptability.\n\n4. Stone Furniture & Homeware: Functional Art for Everyday Living\nIndomaja's Stone Homeware Collection transforms everyday objects into timeless pieces of art. Crafted from natural stone, each item whether a table, bench, sink, bowl, tissue box, or candle holder offers a unique texture and pattern that enhances interior spaces.\nThese pieces are not just functional; they create a sensory experience through their natural weight, cool surface, and organic beauty. Perfect for bathrooms, kitchens, and living spaces, they bring a sense of calm and authenticity into daily living.\n\nThe 2025 best sellers from Indomaja represent more than just products, they are a reflection of craftsmanship, material integrity, and timeless design. Whether it's the raw charm of limestone, the elegance of natural stone, or the modern versatility of GRC, each piece is created to inspire spaces and elevate everyday living.",
+    "content": "At Indomaja, every creation begins with a simple philosophy, transforming natural materials into timeless design. The 2025 best seller collection reflects what today's designers and homeowners value most: authenticity, durability, and understated elegance. From raw limestone to refined stone and modern GRC, each piece is crafted to elevate both indoor and outdoor spaces.\n\n1. Old Limestone Planter: Aged Beauty with Character\nThe Old Limestone Planter stands as one of the most iconic pieces in the collection. Formed by nature over time, each planter carries unique textures, weathered tones, and organic imperfections that cannot be replicated.\nThese planters are highly sought after for their rustic yet sophisticated look, perfect for tropical gardens, minimalist landscapes, or Mediterranean-inspired spaces. Beyond functionality, they serve as statement d\u00e9cor, bringing a sense of history and natural warmth into any environment.\n\n2. Stone Planter Collection: Natural Luxury\nThe Stone Planter Collection highlights the beauty of premium natural stones such as onyx, marble, and travertine. Each material offers its own visual identity, onyx with its translucent elegance, marble with its refined veining, and travertine with its earthy texture.\nDesigned for both interior and exterior use, these planters blend functionality with artistic value. They are ideal for luxury residences, villas, hotels, and commercial projects seeking a refined natural touch.\n\n3. GRC Planter Collection: Modern Form, Lightweight Strength\nFor contemporary spaces, the GRC (Glassfiber Reinforced Cement) Planter Collection offers the perfect balance between durability and design flexibility. Compared to solid stone, GRC is lighter yet strong, making it ideal for versatile applications.\nKey best sellers include:\nGRC Fence Planter \u2013 designed to integrate seamlessly with walls or fences\nCement Hourglass Pot \u2013 a sculptural, modern silhouette\nFlower Sleep Planter \u2013 a unique, artistic form that adds character to any space\nThis collection is widely favored for modern architecture, urban landscapes, and commercial environments due to its clean lines and adaptability.\n\n4. Stone Furniture & Homeware: Functional Art for Everyday Living\nIndomaja's Stone Homeware Collection transforms everyday objects into timeless pieces of art. Crafted from natural stone, each item whether a table, bench, sink, bowl, tissue box, or candle holder offers a unique texture and pattern that enhances interior spaces.\nThese pieces are not just functional; they create a sensory experience through their natural weight, cool surface, and organic beauty. Perfect for bathrooms, kitchens, and living spaces, they bring a sense of calm and authenticity into daily living.\n\nThe 2025 best sellers from Indomaja represent more than just products, they are a reflection of craftsmanship, material integrity, and timeless design. Whether it's the raw charm of limestone, the elegance of natural stone, or the modern versatility of GRC, each piece is created to inspire spaces and elevate everyday living.",
     "sections": [
       {
         "type": "text",
@@ -21,7 +93,7 @@
         "heading": "Old Limestone Planter: Aged Beauty with Character",
         "paragraphs": [
           "The Old Limestone Planter stands as one of the most iconic pieces in the collection. Formed by nature over time, each planter carries unique textures, weathered tones, and organic imperfections that cannot be replicated.",
-          "These planters are highly sought after for their rustic yet sophisticated look, perfect for tropical gardens, minimalist landscapes, or Mediterranean-inspired spaces. Beyond functionality, they serve as statement décor, bringing a sense of history and natural warmth into any environment."
+          "These planters are highly sought after for their rustic yet sophisticated look, perfect for tropical gardens, minimalist landscapes, or Mediterranean-inspired spaces. Beyond functionality, they serve as statement d\u00e9cor, bringing a sense of history and natural warmth into any environment."
         ],
         "images": [
           "/assets/news/best-seller-product/img-news-ol-planter.webp",
@@ -106,7 +178,7 @@
     "detailImage": "/assets/news/a-legacy-of-handmade/detail-news-main-thumbnail2.webp",
     "smallThumbnail": "/assets/news/news-card-thumbnail1.webp",
     "date": "April 15, 2026",
-    "author": "Craft Admin",
+    "author": "Indomaja Team",
     "category": "Heritage",
     "description": "For generations, local artisans have transformed simple clay into beautiful handmade pieces, carrying forward a tradition that reflects the culture, creativity, and craftsmanship of the region.",
     "content": "Just outside Yogyakarta lies the cultural village of Kasongan, a place where clay is more than a material, it is a living heritage. For generations, artisans here have transformed raw earth into handcrafted works of art, preserving a tradition that continues to thrive in the modern world.\n\nThe uniqueness of Kasongan pottery lies in its deep-rooted tradition. Skills are passed down from one generation to the next, often within families who have dedicated their lives to this craft. From shaping the clay by hand to the careful drying and firing process, every step reflects patience, precision, and cultural identity.\n\nWhile grounded in tradition, Kasongan artisans are far from static. Over time, they have evolved, embracing contemporary forms, global design trends, and new creative expressions. Today, their creations range from functional household items to decorative pieces such as vases, planters, and artistic sculptures that appeal to both local and international markets. What sets Kasongan apart is its authenticity. Each piece carries natural textures and subtle imperfections that highlight the beauty of handmade work.\n\nKasongan is not just a production center, it is a vibrant creative ecosystem. Workshops and galleries often exist side by side with homes, allowing visitors to witness the entire process firsthand. This immersive experience makes Kasongan a destination where culture, craftsmanship, and community are seamlessly connected.\n\nIn a fast-paced, mass-produced world, Kasongan stands as a reminder of the value of craftsmanship and heritage. Its clay art is not just decoration, it is a story, a tradition, and a timeless expression of Indonesian artistry that continues to inspire across generations."
@@ -118,10 +190,10 @@
     "detailImage": "/assets/news/from-workshop-to-world/detail-news-main-thumbnail3.webp",
     "smallThumbnail": "/assets/news/news-card-thumbnail2.webp",
     "date": "March 20, 2026",
-    "author": "Global Sales",
+    "author": "Indomaja Team",
     "category": "Logistics",
     "description": "Discover how Indomaja transforms raw natural materials into handcrafted pieces, delivered to global markets with precision and care.",
-    "content": "Behind every Indomaja creation lies a journey that begins in local workshops and extends across international borders. This journey reflects not only the transformation of raw materials into refined products, but also the dedication, coordination, and craftsmanship involved at every stage of the process.\n\nIt starts with the careful sourcing of natural materials from various regions across Indonesia. Clay, stone, and other elements are selected based on their quality, durability, and character—ensuring that each product meets the standards expected by global markets. These materials are then brought to our production facilities, where skilled artisans begin the process of shaping and refining each piece by hand.\n\nThroughout the production phase, attention to detail is essential. From forming and finishing to quality inspection, every step is carried out with precision to maintain consistency and excellence. This process ensures that each product not only meets aesthetic expectations but also delivers long-lasting performance across different environments.\n\nOnce completed, the products move into the logistics stage, where they are carefully packed and prepared for international shipment. With structured warehouse management and efficient container loading, Indomaja ensures that every piece is delivered safely and on schedule.\n\nFrom workshop to world, this journey represents more than just distribution—it reflects Indomaja's commitment to quality, reliability, and global partnership. Each shipment carries not only handcrafted products, but also the story of Indonesian craftsmanship reaching homes and spaces around the world."
+    "content": "Behind every Indomaja creation lies a journey that begins in local workshops and extends across international borders. This journey reflects not only the transformation of raw materials into refined products, but also the dedication, coordination, and craftsmanship involved at every stage of the process.\n\nIt starts with the careful sourcing of natural materials from various regions across Indonesia. Clay, stone, and other elements are selected based on their quality, durability, and character\u2014ensuring that each product meets the standards expected by global markets. These materials are then brought to our production facilities, where skilled artisans begin the process of shaping and refining each piece by hand.\n\nThroughout the production phase, attention to detail is essential. From forming and finishing to quality inspection, every step is carried out with precision to maintain consistency and excellence. This process ensures that each product not only meets aesthetic expectations but also delivers long-lasting performance across different environments.\n\nOnce completed, the products move into the logistics stage, where they are carefully packed and prepared for international shipment. With structured warehouse management and efficient container loading, Indomaja ensures that every piece is delivered safely and on schedule.\n\nFrom workshop to world, this journey represents more than just distribution\u2014it reflects Indomaja's commitment to quality, reliability, and global partnership. Each shipment carries not only handcrafted products, but also the story of Indonesian craftsmanship reaching homes and spaces around the world."
   },
   {
     "id": "sustainable-craftsmanship",
@@ -130,10 +202,10 @@
     "detailImage": "/assets/news/sustainable-craftmanship/detail-news-main-thumbnail4.webp",
     "smallThumbnail": "/assets/news/news-card-thumbnail3.webp",
     "date": "February 5, 2026",
-    "author": "Master Artisan",
+    "author": "Indomaja Team",
     "category": "Sustainability",
     "description": "Indomaja embraces sustainable practices by combining natural materials, responsible sourcing, and handcrafted processes.",
-    "content": "As the demand for environmentally responsible products continues to grow, sustainability has become an essential aspect of modern design. At Indomaja, this principle is deeply embedded in the way we source materials, craft products, and manage our operations.\n\nOur approach begins with the use of natural materials such as stone and clay, sourced from regions known for their quality and sustainability. By working closely with local suppliers, we ensure that materials are obtained responsibly while supporting local communities and preserving natural resources.\n\nThe production process itself reflects a commitment to minimizing environmental impact. Each product is handcrafted using techniques that prioritize efficiency and reduce unnecessary waste. Unlike mass production, this approach allows for greater control over material usage while maintaining the authenticity and uniqueness of every piece.\n\nIn addition to responsible sourcing and production, durability plays a key role in sustainability. Indomaja's products are designed to last, reducing the need for frequent replacement and contributing to more sustainable consumption over time. The timeless design of each piece further ensures that it remains relevant across changing trends.\n\nThrough sustainable craftsmanship, Indomaja seeks to create a balance between nature and design—where beauty is not only defined by appearance, but also by responsibility. By continuing to refine our processes and uphold our values, we aim to deliver products that are both meaningful and mindful for global audiences."
+    "content": "As the demand for environmentally responsible products continues to grow, sustainability has become an essential aspect of modern design. At Indomaja, this principle is deeply embedded in the way we source materials, craft products, and manage our operations.\n\nOur approach begins with the use of natural materials such as stone and clay, sourced from regions known for their quality and sustainability. By working closely with local suppliers, we ensure that materials are obtained responsibly while supporting local communities and preserving natural resources.\n\nThe production process itself reflects a commitment to minimizing environmental impact. Each product is handcrafted using techniques that prioritize efficiency and reduce unnecessary waste. Unlike mass production, this approach allows for greater control over material usage while maintaining the authenticity and uniqueness of every piece.\n\nIn addition to responsible sourcing and production, durability plays a key role in sustainability. Indomaja's products are designed to last, reducing the need for frequent replacement and contributing to more sustainable consumption over time. The timeless design of each piece further ensures that it remains relevant across changing trends.\n\nThrough sustainable craftsmanship, Indomaja seeks to create a balance between nature and design\u2014where beauty is not only defined by appearance, but also by responsibility. By continuing to refine our processes and uphold our values, we aim to deliver products that are both meaningful and mindful for global audiences."
   },
   {
     "id": "history-of-indomaja",
@@ -142,81 +214,9 @@
     "detailImage": "/assets/news/history-of-indomaja/detail-news-main-thumbnail5.webp",
     "smallThumbnail": "/assets/news/news-card-thumbnail4.webp",
     "date": "February 5, 2026",
-    "author": "Master Artisan",
+    "author": "Indomaja Team",
     "category": "Heritage",
     "description": "Founded in Tulungagung, East Java, Indomaja was born from a deep passion for Indonesian natural art and craftsmanship.",
-    "content": "Founded in Tulungagung, East Java, Indomaja was born from a deep passion for Indonesian natural art and craftsmanship. What started as a small local workshop producing stone and clay decorations has now grown into a trusted export oriented company that delivers handcrafted home décor to clients around the world.\n\nOver the years, we have built a solid foundation through dedication, quality, and consistency. Our journey began with a simple mission, to introduce the beauty of Indonesian natural materials such as marble, onyx, and clay to the global market.\n\nTo enhance efficiency and meet growing demand, we expanded our operations by establishing production units in different cities, strategically chosen based on the availability of raw materials. This structure allows us to optimize transportation, minimize costs, and reduce production time while maintaining product quality and craftsmanship.\n\nToday, Indomaja collaborates with artisans, designers, and local communities to create products that blend natural beauty with modern design.\n\nThrough continuous improvement and strong business ethics, we have successfully established long-term partnerships with clients from Netherland, United Arab Emirates, Australia, Sweden, Canada, United States, and etc.\n\nFrom humble beginnings to international recognition, Indomaja continues to grow with one clear vision, to become a trusted global partner in sustainable handcrafted home décor."
-  },
-  {
-    "id": "art-of-vintage-terracotta",
-    "title": "The Art of Vintage Terracotta Style",
-    "image": "/assets/news/art-of-vintage-terracotta/IMG_0001.webp",
-    "detailImage": "/assets/news/art-of-vintage-terracotta/IMG_0001.webp",
-    "smallThumbnail": "/assets/news/art-of-vintage-terracotta/IMG_0001.webp",
-    "date": "12 Aug 2026",
-    "author": "Indomaja Team",
-    "category": "Craftsmanship",
-    "description": "How Indomaja artisans transform fresh kiln-fired clay into pieces that carry an old-world spirit, with hand-applied patina, natural gradations, and one-of-a-kind character.",
-    "content": "Inside a bamboo-roofed workshop in Yogyakarta, a clay pot still warm from the kiln sits quietly on a wooden potter's wheel. Its shape is perfect, its surface smooth, its color a true brick red. But for the artisans at Indomaja, this is only half the story. The other half begins when their hands start working to transform that newness into the traces of time. It's not just about the color, but a process that honors age even though the piece is less than a day old. This is what we call the vintage terracotta style.\n\n1. From Fire to Maturity\nEach piece begins with hand-shaping on the potter's wheel, is left to dry slowly, and then fired in a kiln. Unlike wood-fired kilns, where temperatures fluctuate with the flames, our kiln uses gas, providing stable and even heat throughout every corner of the kiln from start to finish.\n\nIt is this consistent temperature that makes all the difference. The clay is thoroughly fired, resulting in a deep, natural terracotta color and a denser, stronger body, free from the brittleness often found in underfired areas, as is common with traditional wood-fired kilns. This warm, authentic, and perfectly matured base color serves as the canvas for the next stage.\n\n2. A Touch That Transcends Time\nOnce the piece has cooled, the stage that most defines its vintage character begins, the manual application of color layers or whitewash, sprayed using simple tools and applied by hand. Our artisans do not strive for uniformity, quite the opposite. They allow the distinctive patina to build up on one side and fade on the other, leaving natural gradations reminiscent of dust that has settled over decades.\n\nEvery stroke is a spontaneous decision. No two pieces are identical, because the human hand never repeats the exact same movement twice. The result is a textured surface that appears weathered, stained by earth, and touched by generations, even though it was just born from the kiln this week.\n\n3. A Technique Rooted in Tradition and Creativity\nThis is the philosophy that sets Indomaja's vintage terracotta products apart from mere old pots collected from villages. These pieces are newly crafted, yet their finish carries an old-world spirit, a technique that demands patience and artistic instinct, not machines or molds.\n\nOur artisans have learned this technique through years of observing how ancient pottery truly ages, how natural lime settles into the crevices, how dust and moss leave uneven marks, and how rainwater forms vertical patterns on the body of the jar over dozens of seasons. All these observations are translated back into the movements of their hands, applied to pottery still fresh from the kiln.\n\n4. Character That Can't Be Mass-Produced\nEvery vase, pot, and jar in the vintage terracotta collection bears its own unique fingerprint, variations in shades of white terracotta, texture thickness, and shapes born from human hands, not industrial molds. This is the value sought by architects, interior designers, and villa developers who want pieces with a story, not just decorations.\n\nFrom Yogyakarta, this collection is shipped to homes and spaces around the world, carrying with it the mark of the Indomaja artisans who have kept this craft alive for more than three decades.\n\nOur vintage terracotta pieces could be the perfect choice for you, or perhaps you're more interested in authentic antique pots? Contact us to find the option that best suits your style.",
-    "sections": [
-      {
-        "type": "text",
-        "text": "Inside a bamboo-roofed workshop in Yogyakarta, a clay pot still warm from the kiln sits quietly on a wooden potter's wheel. Its shape is perfect, its surface smooth, its color a true brick red. But for the artisans at Indomaja, this is only half the story. The other half begins when their hands start working to transform that newness into the traces of time. It's not just about the color, but a process that honors age even though the piece is less than a day old. This is what we call the vintage terracotta style."
-      },
-      {
-        "type": "numbered",
-        "number": 1,
-        "heading": "From Fire to Maturity",
-        "paragraphs": [
-          "Each piece begins with hand-shaping on the potter's wheel, is left to dry slowly, and then fired in a kiln. Unlike wood-fired kilns, where temperatures fluctuate with the flames, our kiln uses gas, providing stable and even heat throughout every corner of the kiln from start to finish.",
-          "It is this consistent temperature that makes all the difference. The clay is thoroughly fired, resulting in a deep, natural terracotta color and a denser, stronger body, free from the brittleness often found in underfired areas, as is common with traditional wood-fired kilns. This warm, authentic, and perfectly matured base color serves as the canvas for the next stage."
-        ],
-        "images": [
-          "/assets/news/art-of-vintage-terracotta/IMG_0002.webp",
-          "/assets/news/art-of-vintage-terracotta/IMG_0003.webp"
-        ]
-      },
-      {
-        "type": "numbered",
-        "number": 2,
-        "heading": "A Touch That Transcends Time",
-        "paragraphs": [
-          "Once the piece has cooled, the stage that most defines its vintage character begins, the manual application of color layers or whitewash, sprayed using simple tools and applied by hand. Our artisans do not strive for uniformity, quite the opposite. They allow the distinctive patina to build up on one side and fade on the other, leaving natural gradations reminiscent of dust that has settled over decades.",
-          "Every stroke is a spontaneous decision. No two pieces are identical, because the human hand never repeats the exact same movement twice. The result is a textured surface that appears weathered, stained by earth, and touched by generations, even though it was just born from the kiln this week."
-        ],
-        "images": [
-          "/assets/news/art-of-vintage-terracotta/IMG_0004.webp",
-          "/assets/news/art-of-vintage-terracotta/IMG_0005.webp"
-        ]
-      },
-      {
-        "type": "numbered",
-        "number": 3,
-        "heading": "A Technique Rooted in Tradition and Creativity",
-        "paragraphs": [
-          "This is the philosophy that sets Indomaja's vintage terracotta products apart from mere old pots collected from villages. These pieces are newly crafted, yet their finish carries an old-world spirit, a technique that demands patience and artistic instinct, not machines or molds.",
-          "Our artisans have learned this technique through years of observing how ancient pottery truly ages, how natural lime settles into the crevices, how dust and moss leave uneven marks, and how rainwater forms vertical patterns on the body of the jar over dozens of seasons. All these observations are translated back into the movements of their hands, applied to pottery still fresh from the kiln."
-        ],
-        "images": []
-      },
-      {
-        "type": "numbered",
-        "number": 4,
-        "heading": "Character That Can't Be Mass-Produced",
-        "paragraphs": [
-          "Every vase, pot, and jar in the vintage terracotta collection bears its own unique fingerprint, variations in shades of white terracotta, texture thickness, and shapes born from human hands, not industrial molds. This is the value sought by architects, interior designers, and villa developers who want pieces with a story, not just decorations.",
-          "From Yogyakarta, this collection is shipped to homes and spaces around the world, carrying with it the mark of the Indomaja artisans who have kept this craft alive for more than three decades."
-        ],
-        "images": [
-          "/assets/news/art-of-vintage-terracotta/IMG_0006.webp",
-          "/assets/news/art-of-vintage-terracotta/IMG_0007.webp",
-          "/assets/news/art-of-vintage-terracotta/IMG_0008.webp"
-        ]
-      },
-      {
-        "type": "text",
-        "text": "Our vintage terracotta pieces could be the perfect choice for you, or perhaps you're more interested in authentic antique pots? Contact us to find the option that best suits your style."
-      }
-    ]
+    "content": "Founded in Tulungagung, East Java, Indomaja was born from a deep passion for Indonesian natural art and craftsmanship. What started as a small local workshop producing stone and clay decorations has now grown into a trusted export oriented company that delivers handcrafted home d\u00e9cor to clients around the world.\n\nOver the years, we have built a solid foundation through dedication, quality, and consistency. Our journey began with a simple mission, to introduce the beauty of Indonesian natural materials such as marble, onyx, and clay to the global market.\n\nTo enhance efficiency and meet growing demand, we expanded our operations by establishing production units in different cities, strategically chosen based on the availability of raw materials. This structure allows us to optimize transportation, minimize costs, and reduce production time while maintaining product quality and craftsmanship.\n\nToday, Indomaja collaborates with artisans, designers, and local communities to create products that blend natural beauty with modern design.\n\nThrough continuous improvement and strong business ethics, we have successfully established long-term partnerships with clients from Netherland, United Arab Emirates, Australia, Sweden, Canada, United States, and etc.\n\nFrom humble beginnings to international recognition, Indomaja continues to grow with one clear vision, to become a trusted global partner in sustainable handcrafted home d\u00e9cor."
   }
 ]

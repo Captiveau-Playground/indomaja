@@ -51,12 +51,12 @@ export default function ContactPage() {
                     <Phone size={20} className="text-buccaneer-900" strokeWidth={1.5} />
                   </div>
                   <a
-                    href="https://wa.me/6289677597478"
+                    href="https://wa.me/628139130746"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-buccaneer-900 hover:text-buccaneer-700 text-[16px] font-medium transition-colors md:text-[18px]"
                   >
-                    +62 896 7759 7478
+                    +62 813-9130-746
                   </a>
                 </div>
 

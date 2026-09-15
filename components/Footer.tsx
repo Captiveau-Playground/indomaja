@@ -111,7 +111,7 @@ const Footer = () => {
                 </h2>
                 <div className="space-y-4">
                   <a
-                    href="https://wa.me/6289677597478"
+                    href="https://wa.me/628139130746"
                     target="_blank"
                     className="text-buccaneer-200 group flex items-center gap-5"
                   >
@@ -126,7 +126,7 @@ const Footer = () => {
                       />
                     </div>
                     <span className="font-heading text-body-md text-buccaneer-400 block">
-                      +62 896 7759 7478
+                      +62 813-9130-746
                     </span>
                   </a>
                   <a

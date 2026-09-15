@@ -1045,10 +1045,53 @@
               "/assets/products/sub-product/grc/gallery/img-grc20.webp",
               "/assets/products/sub-product/grc/gallery/img-grc21.webp",
               "/assets/products/sub-product/grc/gallery/img-grc22.webp",
-              "/assets/products/sub-product/grc/gallery/img-grc24.webp",
-              "/assets/products/sub-product/grc/gallery/img-grc25.webp"
+              "/assets/products/sub-product/grc/gallery/img-grc23.webp",
+              "/assets/products/sub-product/grc/gallery/img-grc24.webp"
             ],
             "code": "GRC-G01",
+            "material": "GRC",
+            "size": "Various"
+          }
+        ]
+      },
+      {
+        "slug": "giant-water-pots",
+        "line1": "GIANT WATER",
+        "line2": "POTS",
+        "image": "/assets/products/sub-product/grc-giant-water-pots.webp",
+        "description": "Large-scale handcrafted water pots with the strength of GRC and a refined finish.",
+        "detailedDescription": "Our Giant Water Pots combine the durability of Glassfiber Reinforced Cement with generous, sculptural proportions. Each pot is handcrafted to withstand the elements while anchoring foyers, gardens, and formal landscapes with quiet presence.",
+        "descriptionParts": [
+          "Our Giant Water Pots combine the durability of Glassfiber Reinforced Cement with generous, sculptural proportions. Each pot is handcrafted to withstand the elements while anchoring foyers, gardens, and formal landscapes with quiet presence.",
+          "Engineered from GRC, these oversized pots are significantly lighter than traditional concrete, making them easier to move and install without compromising strength or stability.",
+          "Perfect as statement planters, water features, or architectural accents, each piece carries a refined, consistent finish that ages beautifully outdoors."
+        ],
+        "heroImages": [
+          "/assets/products/sub-product/giant-water-pots/img-grc-gwp-header1.webp",
+          "/assets/products/sub-product/giant-water-pots/img-grc-gwp-header2.webp",
+          "/assets/products/sub-product/giant-water-pots/img-grc-gwp-header3.webp"
+        ],
+        "items": [
+          {
+            "name": "Giant Water Pots",
+            "slug": "gallery",
+            "images": [
+              "/assets/products/sub-product/giant-water-pots/gallery/img-gwp1.webp",
+              "/assets/products/sub-product/giant-water-pots/gallery/img-gwp2.webp",
+              "/assets/products/sub-product/giant-water-pots/gallery/img-gwp3.webp",
+              "/assets/products/sub-product/giant-water-pots/gallery/img-gwp4.webp",
+              "/assets/products/sub-product/giant-water-pots/gallery/img-gwp5.webp",
+              "/assets/products/sub-product/giant-water-pots/gallery/img-gwp6.webp",
+              "/assets/products/sub-product/giant-water-pots/gallery/img-gwp7.webp",
+              "/assets/products/sub-product/giant-water-pots/gallery/img-gwp8.webp",
+              "/assets/products/sub-product/giant-water-pots/gallery/img-gwp9.webp",
+              "/assets/products/sub-product/giant-water-pots/gallery/img-gwp10.webp",
+              "/assets/products/sub-product/giant-water-pots/gallery/img-gwp11.webp",
+              "/assets/products/sub-product/giant-water-pots/gallery/img-gwp12.webp",
+              "/assets/products/sub-product/giant-water-pots/gallery/img-gwp13.webp",
+              "/assets/products/sub-product/giant-water-pots/gallery/img-gwp14.webp"
+            ],
+            "code": "GRC-GWP01",
             "material": "GRC",
             "size": "Various"
           }

@@ -23,7 +23,7 @@ Saya ingin bertanya mengenai:
 - Message: ${message}`;
 
     const encodedMessage = encodeURIComponent(waMessage);
-    const waLink = `https://wa.me/6289677597478?text=${encodedMessage}`;
+    const waLink = `https://wa.me/628139130746?text=${encodedMessage}`;
 
     window.open(waLink, "_blank");
   };
