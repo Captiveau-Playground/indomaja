@@ -111,7 +111,7 @@ const Footer = () => {
                 </h2>
                 <div className="space-y-4">
                   <a
-                    href="https://wa.me/628139130746"
+                    href="https://wa.me/6289677597478"
                     target="_blank"
                     className="text-buccaneer-200 group flex items-center gap-5"
                   >
