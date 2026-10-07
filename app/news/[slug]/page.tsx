@@ -86,12 +86,65 @@ export default async function NewsDetailPage({ params }: { params: Promise<{ slu
                   ).map((section, idx) => {
                     if (section.type === "text") {
                       return (
-                        <p
-                          key={idx}
-                          className="lg:text-body-lg text-grey-500 text-[16px] leading-[1.8]"
-                        >
-                          {section.text}
-                        </p>
+                        <div key={idx} className="flex flex-col gap-4">
+                          <p className="lg:text-body-lg text-grey-500 text-[16px] leading-[1.8]">
+                            {section.text}
+                          </p>
+                          {section.images && section.images.length > 0 && (
+                            <div
+                              className={`grid gap-3 ${section.images.length === 1 ? "grid-cols-1" : "grid-cols-2"}`}
+                            >
+                              {section.images.map((img, imgIdx) => (
+                                <div key={imgIdx} className="relative aspect-[4/3] overflow-hidden">
+                                  <Image
+                                    src={img}
+                                    alt={`${post.title} ${imgIdx + 1}`}
+                                    fill
+                                    className="object-cover"
+                                    sizes="(max-width: 768px) 100vw, 33vw"
+                                    quality={65}
+                                  />
+                                </div>
+                              ))}
+                            </div>
+                          )}
+                        </div>
+                      );
+                    }
+
+                    if (section.type === "heading") {
+                      return (
+                        <div key={idx} className="mt-4 flex flex-col gap-4">
+                          <h2 className="text-buccaneer-900 font-heading text-[20px] leading-tight font-bold tracking-tight md:text-[24px] lg:text-[28px]">
+                            {section.heading}
+                          </h2>
+                          {section.paragraphs?.map((p, pIdx) => (
+                            <p
+                              key={pIdx}
+                              className="lg:text-body-lg text-grey-500 text-[16px] leading-[1.8]"
+                            >
+                              {p}
+                            </p>
+                          ))}
+                          {section.images && section.images.length > 0 && (
+                            <div
+                              className={`mt-2 grid gap-3 ${section.images.length === 2 ? "grid-cols-2" : "grid-cols-3"}`}
+                            >
+                              {section.images.map((img, imgIdx) => (
+                                <div key={imgIdx} className="relative aspect-[4/3] overflow-hidden">
+                                  <Image
+                                    src={img}
+                                    alt={`${section.heading} ${imgIdx + 1}`}
+                                    fill
+                                    className="object-cover"
+                                    sizes="(max-width: 768px) 100vw, 22vw"
+                                    quality={65}
+                                  />
+                                </div>
+                              ))}
+                            </div>
+                          )}
+                        </div>
                       );
                     }
 
