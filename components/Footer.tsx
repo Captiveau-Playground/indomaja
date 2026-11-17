@@ -111,7 +111,7 @@ const Footer = () => {
                 </h2>
                 <div className="space-y-4">
                   <a
-                    href="https://wa.me/6289677597478"
+                    href="https://wa.me/628139130746"
                     target="_blank"
                     className="text-buccaneer-200 group flex items-center gap-5"
                   >
@@ -130,7 +130,7 @@ const Footer = () => {
                     </span>
                   </a>
                   <a
-                    href="mailto:info@indomaja.com"
+                    href="mailto:indomaja22@gmail.com"
                     className="text-buccaneer-200 group flex items-center gap-5"
                   >
                     <div className="flex h-10 w-10 shrink-0 items-center justify-center">
@@ -187,7 +187,7 @@ const Footer = () => {
             </p>
             <p className="text-buccaneer-200 font-sans text-[12px] leading-relaxed opacity-60">
               Powered by{" "}
-              <Link className="hover:cursor-pointer" href="https://captiveau.fun" target="_blank">
+              <Link className="hover:cursor-pointer" href="https://captiveau.id" target="_blank">
                 Captiveau | Creative Tech Studio
               </Link>
             </p>
