@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 export default function FloatingWhatsApp() {
-  const whatsappNumber = "6289677597478";
+  const whatsappNumber = "628139130746";
   const whatsappUrl = `https://wa.me/${whatsappNumber}`;
 
   return (
